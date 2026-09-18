@@ -1,0 +1,28 @@
+syntax = "proto2";
+
+package apollo.common;
+
+message InstrumentationData {
+    message FileData {
+        optional string filename = 1;
+        
+        message FunctionData {
+            optional string function_name = 1;
+            optional uint64 total_calls = 2;
+        }
+        
+        message BranchData {
+            optional string function_name = 1;
+            optional string branch_id = 2;
+            optional uint64 total_hits = 3;
+        }
+        
+        repeated FunctionData function_calls = 2;
+        repeated BranchData branch_coverage = 3;
+    }
+    
+    repeated FileData files = 1;
+    
+    optional string execution_start_time = 2;
+    optional string execution_end_time = 3;
+}

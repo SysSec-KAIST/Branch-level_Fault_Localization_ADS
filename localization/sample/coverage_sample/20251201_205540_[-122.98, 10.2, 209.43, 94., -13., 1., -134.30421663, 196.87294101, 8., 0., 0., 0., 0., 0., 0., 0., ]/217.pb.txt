@@ -1,0 +1,351 @@
+files {
+  filename: "modules/planning/common/obstacle.cc"
+  branch_coverage {
+    function_name: "IsValidPerceptionObstacle"
+    branch_id: "modules/planning/common/obstacle.cc_12"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "CreateObstacles"
+    branch_id: "modules/planning/common/obstacle.cc_16"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "Obstacle"
+    branch_id: "modules/planning/common/obstacle.cc_2"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "CheckLaneBlocking"
+    branch_id: "modules/planning/common/obstacle.cc_61"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "BuildReferenceLineStBoundary"
+    branch_id: "modules/planning/common/obstacle.cc_20"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/traffic_rules/traffic_decider.cc"
+  branch_coverage {
+    function_name: "Execute"
+    branch_id: "modules/planning/traffic_rules/traffic_decider.cc_7"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/traffic_rules/crosswalk.cc"
+  branch_coverage {
+    function_name: "ApplyRule"
+    branch_id: "modules/planning/traffic_rules/crosswalk.cc_1"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/traffic_rules/destination.cc"
+  branch_coverage {
+    function_name: "MakeDecisions"
+    branch_id: "modules/planning/traffic_rules/destination.cc_3"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/traffic_rules/keep_clear.cc"
+  branch_coverage {
+    function_name: "ApplyRule"
+    branch_id: "modules/planning/traffic_rules/keep_clear.cc_6"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ApplyRule"
+    branch_id: "modules/planning/traffic_rules/keep_clear.cc_8"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/traffic_rules/reference_line_end.cc"
+  branch_coverage {
+    function_name: "ApplyRule"
+    branch_id: "modules/planning/traffic_rules/reference_line_end.cc_1"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/traffic_rules/rerouting.cc"
+  branch_coverage {
+    function_name: "ChangeLaneFailRerouting"
+    branch_id: "modules/planning/traffic_rules/rerouting.cc_2"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/traffic_rules/traffic_light.cc"
+  branch_coverage {
+    function_name: "MakeDecisions"
+    branch_id: "modules/planning/traffic_rules/traffic_light.cc_2"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/scenarios/scenario_manager.cc"
+  branch_coverage {
+    function_name: "ScenarioDispatch"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_165"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "SelectPadMsgScenario"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_33"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_167"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_90"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_91"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_170"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_171"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_172"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_173"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_175"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "ScenarioDispatchNonLearning"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_176"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "UpdatePlanningContextBareIntersectionScenario"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_177"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "UpdatePlanningContextEmergencyStopcenario"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_180"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "UpdatePlanningContextStopSignScenario"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_181"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "UpdatePlanningContextTrafficLightScenario"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_184"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "UpdatePlanningContextYieldSignScenario"
+    branch_id: "modules/planning/scenarios/scenario_manager.cc_190"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/scenarios/lane_follow/lane_follow_stage.cc"
+  branch_coverage {
+    function_name: "PlanOnReferenceLine"
+    branch_id: "modules/planning/scenarios/lane_follow/lane_follow_stage.cc_11"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "PlanOnReferenceLine"
+    branch_id: "modules/planning/scenarios/lane_follow/lane_follow_stage.cc_12"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "PlanOnReferenceLine"
+    branch_id: "modules/planning/scenarios/lane_follow/lane_follow_stage.cc_13"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "PlanFallbackTrajectory"
+    branch_id: "modules/planning/scenarios/lane_follow/lane_follow_stage.cc_25"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "PlanOnReferenceLine"
+    branch_id: "modules/planning/scenarios/lane_follow/lane_follow_stage.cc_14"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/scenarios/lane_follow/lane_follow_stage.cc_10"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/tasks/deciders/lane_change_decider/lane_change_decider.cc"
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/tasks/deciders/lane_change_decider/lane_change_decider.cc_5"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/tasks/deciders/lane_change_decider/lane_change_decider.cc_6"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/tasks/deciders/path_reuse_decider/path_reuse_decider.cc"
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/tasks/deciders/path_reuse_decider/path_reuse_decider.cc_1"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/tasks/deciders/path_lane_borrow_decider/path_lane_borrow_decider.cc"
+  branch_coverage {
+    function_name: "IsNecessaryToBorrowLane"
+    branch_id: "modules/planning/tasks/deciders/path_lane_borrow_decider/path_lane_borrow_decider.cc_5"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "IsBlockingObstacleFarFromIntersection"
+    branch_id: "modules/planning/tasks/deciders/path_lane_borrow_decider/path_lane_borrow_decider.cc_22"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "IsLongTermBlockingObstacle"
+    branch_id: "modules/planning/tasks/deciders/path_lane_borrow_decider/path_lane_borrow_decider.cc_18"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "IsNecessaryToBorrowLane"
+    branch_id: "modules/planning/tasks/deciders/path_lane_borrow_decider/path_lane_borrow_decider.cc_9"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc"
+  branch_coverage {
+    function_name: "InitPathBoundsDecider"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_23"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "GetBoundaryFromLanesAndADC"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_89"
+    total_hits: 400
+  }
+  branch_coverage {
+    function_name: "GetBoundaryFromLanesAndADC"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_90"
+    total_hits: 400
+  }
+  branch_coverage {
+    function_name: "CheckLaneBoundaryType"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_162"
+    total_hits: 400
+  }
+  branch_coverage {
+    function_name: "GetBoundaryFromLanesAndADC"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_100"
+    total_hits: 200
+  }
+  branch_coverage {
+    function_name: "GetBoundaryFromLanesAndADC"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_104"
+    total_hits: 2
+  }
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_7"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "GetBoundaryFromLanesAndADC"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_101"
+    total_hits: 200
+  }
+  branch_coverage {
+    function_name: "SortObstaclesForSweepLine"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_133"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "GetBoundaryFromStaticObstacles"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_127"
+    total_hits: 199
+  }
+  branch_coverage {
+    function_name: "GetBoundaryFromStaticObstacles"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_130"
+    total_hits: 199
+  }
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/tasks/deciders/path_bounds_decider/path_bounds_decider.cc_3"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/tasks/optimizers/piecewise_jerk_path/piecewise_jerk_path_optimizer.cc"
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/tasks/optimizers/piecewise_jerk_path/piecewise_jerk_path_optimizer.cc_5"
+    total_hits: 2
+  }
+  branch_coverage {
+    function_name: "OptimizePath"
+    branch_id: "modules/planning/tasks/optimizers/piecewise_jerk_path/piecewise_jerk_path_optimizer.cc_13"
+    total_hits: 2
+  }
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/tasks/optimizers/piecewise_jerk_path/piecewise_jerk_path_optimizer.cc_4"
+    total_hits: 1
+  }
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/tasks/optimizers/piecewise_jerk_path/piecewise_jerk_path_optimizer.cc_10"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/tasks/optimizers/path_optimizer.cc"
+  branch_coverage {
+    function_name: "Execute"
+    branch_id: "modules/planning/tasks/optimizers/path_optimizer.cc_1"
+    total_hits: 1
+  }
+}
+files {
+  filename: "modules/planning/scenarios/scenario.cc"
+  branch_coverage {
+    function_name: "Process"
+    branch_id: "modules/planning/scenarios/scenario.cc_1"
+    total_hits: 1
+  }
+}

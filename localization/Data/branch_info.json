@@ -1,0 +1,6178 @@
+{
+    "scenarios/scenario_manager.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 72
+        },
+        {
+            "branch_number": "2",
+            "line_number": 78
+        },
+        {
+            "branch_number": "3",
+            "line_number": 83
+        },
+        {
+            "branch_number": "4",
+            "line_number": 88
+        },
+        {
+            "branch_number": "5",
+            "line_number": 93
+        },
+        {
+            "branch_number": "6",
+            "line_number": 98
+        },
+        {
+            "branch_number": "7",
+            "line_number": 103
+        },
+        {
+            "branch_number": "8",
+            "line_number": 108
+        },
+        {
+            "branch_number": "9",
+            "line_number": 113
+        },
+        {
+            "branch_number": "10",
+            "line_number": 118
+        },
+        {
+            "branch_number": "11",
+            "line_number": 124
+        },
+        {
+            "branch_number": "12",
+            "line_number": 130
+        },
+        {
+            "branch_number": "13",
+            "line_number": 135
+        },
+        {
+            "branch_number": "14",
+            "line_number": 140
+        },
+        {
+            "branch_number": "15",
+            "line_number": 145
+        },
+        {
+            "branch_number": "104",
+            "line_number": 150
+        },
+        {
+            "branch_number": "105",
+            "line_number": 161
+        },
+        {
+            "branch_number": "106",
+            "line_number": 167
+        },
+        {
+            "branch_number": "107",
+            "line_number": 257
+        },
+        {
+            "branch_number": "108",
+            "line_number": 263
+        },
+        {
+            "branch_number": "109",
+            "line_number": 271
+        },
+        {
+            "branch_number": "110",
+            "line_number": 279
+        },
+        {
+            "branch_number": "111",
+            "line_number": 286
+        },
+        {
+            "branch_number": "112",
+            "line_number": 297
+        },
+        {
+            "branch_number": "113",
+            "line_number": 307
+        },
+        {
+            "branch_number": "114",
+            "line_number": 324
+        },
+        {
+            "branch_number": "115",
+            "line_number": 332
+        },
+        {
+            "branch_number": "116",
+            "line_number": 342
+        },
+        {
+            "branch_number": "16",
+            "line_number": 352
+        },
+        {
+            "branch_number": "117",
+            "line_number": 354
+        },
+        {
+            "branch_number": "17",
+            "line_number": 360
+        },
+        {
+            "branch_number": "18",
+            "line_number": 362
+        },
+        {
+            "branch_number": "19",
+            "line_number": 364
+        },
+        {
+            "branch_number": "20",
+            "line_number": 366
+        },
+        {
+            "branch_number": "21",
+            "line_number": 368
+        },
+        {
+            "branch_number": "22",
+            "line_number": 370
+        },
+        {
+            "branch_number": "23",
+            "line_number": 372
+        },
+        {
+            "branch_number": "24",
+            "line_number": 374
+        },
+        {
+            "branch_number": "25",
+            "line_number": 376
+        },
+        {
+            "branch_number": "26",
+            "line_number": 378
+        },
+        {
+            "branch_number": "27",
+            "line_number": 380
+        },
+        {
+            "branch_number": "28",
+            "line_number": 382
+        },
+        {
+            "branch_number": "118",
+            "line_number": 385
+        },
+        {
+            "branch_number": "29",
+            "line_number": 391
+        },
+        {
+            "branch_number": "30",
+            "line_number": 403
+        },
+        {
+            "branch_number": "119",
+            "line_number": 405
+        },
+        {
+            "branch_number": "31",
+            "line_number": 411
+        },
+        {
+            "branch_number": "120",
+            "line_number": 413
+        },
+        {
+            "branch_number": "32",
+            "line_number": 419
+        },
+        {
+            "branch_number": "121",
+            "line_number": 424
+        },
+        {
+            "branch_number": "33",
+            "line_number": 430
+        },
+        {
+            "branch_number": "122",
+            "line_number": 452
+        },
+        {
+            "branch_number": "123",
+            "line_number": 458
+        },
+        {
+            "branch_number": "124",
+            "line_number": 466
+        },
+        {
+            "branch_number": "125",
+            "line_number": 472
+        },
+        {
+            "branch_number": "126",
+            "line_number": 475
+        },
+        {
+            "branch_number": "127",
+            "line_number": 479
+        },
+        {
+            "branch_number": "128",
+            "line_number": 487
+        },
+        {
+            "branch_number": "34",
+            "line_number": 491
+        },
+        {
+            "branch_number": "129",
+            "line_number": 493
+        },
+        {
+            "branch_number": "35",
+            "line_number": 499
+        },
+        {
+            "branch_number": "130",
+            "line_number": 501
+        },
+        {
+            "branch_number": "36",
+            "line_number": 508
+        },
+        {
+            "branch_number": "131",
+            "line_number": 510
+        },
+        {
+            "branch_number": "37",
+            "line_number": 516
+        },
+        {
+            "branch_number": "132",
+            "line_number": 520
+        },
+        {
+            "branch_number": "133",
+            "line_number": 524
+        },
+        {
+            "branch_number": "38",
+            "line_number": 556
+        },
+        {
+            "branch_number": "39",
+            "line_number": 558
+        },
+        {
+            "branch_number": "40",
+            "line_number": 560
+        },
+        {
+            "branch_number": "134",
+            "line_number": 562
+        },
+        {
+            "branch_number": "41",
+            "line_number": 569
+        },
+        {
+            "branch_number": "42",
+            "line_number": 571
+        },
+        {
+            "branch_number": "43",
+            "line_number": 573
+        },
+        {
+            "branch_number": "44",
+            "line_number": 575
+        },
+        {
+            "branch_number": "45",
+            "line_number": 577
+        },
+        {
+            "branch_number": "46",
+            "line_number": 579
+        },
+        {
+            "branch_number": "47",
+            "line_number": 581
+        },
+        {
+            "branch_number": "48",
+            "line_number": 583
+        },
+        {
+            "branch_number": "49",
+            "line_number": 585
+        },
+        {
+            "branch_number": "135",
+            "line_number": 588
+        },
+        {
+            "branch_number": "50",
+            "line_number": 594
+        },
+        {
+            "branch_number": "136",
+            "line_number": 627
+        },
+        {
+            "branch_number": "137",
+            "line_number": 649
+        },
+        {
+            "branch_number": "138",
+            "line_number": 666
+        },
+        {
+            "branch_number": "139",
+            "line_number": 673
+        },
+        {
+            "branch_number": "140",
+            "line_number": 684
+        },
+        {
+            "branch_number": "141",
+            "line_number": 694
+        },
+        {
+            "branch_number": "142",
+            "line_number": 702
+        },
+        {
+            "branch_number": "143",
+            "line_number": 707
+        },
+        {
+            "branch_number": "144",
+            "line_number": 715
+        },
+        {
+            "branch_number": "145",
+            "line_number": 720
+        },
+        {
+            "branch_number": "146",
+            "line_number": 728
+        },
+        {
+            "branch_number": "51",
+            "line_number": 737
+        },
+        {
+            "branch_number": "52",
+            "line_number": 739
+        },
+        {
+            "branch_number": "53",
+            "line_number": 741
+        },
+        {
+            "branch_number": "147",
+            "line_number": 743
+        },
+        {
+            "branch_number": "148",
+            "line_number": 747
+        },
+        {
+            "branch_number": "149",
+            "line_number": 751
+        },
+        {
+            "branch_number": "54",
+            "line_number": 757
+        },
+        {
+            "branch_number": "55",
+            "line_number": 759
+        },
+        {
+            "branch_number": "56",
+            "line_number": 761
+        },
+        {
+            "branch_number": "57",
+            "line_number": 763
+        },
+        {
+            "branch_number": "58",
+            "line_number": 765
+        },
+        {
+            "branch_number": "59",
+            "line_number": 767
+        },
+        {
+            "branch_number": "60",
+            "line_number": 769
+        },
+        {
+            "branch_number": "61",
+            "line_number": 771
+        },
+        {
+            "branch_number": "62",
+            "line_number": 773
+        },
+        {
+            "branch_number": "150",
+            "line_number": 776
+        },
+        {
+            "branch_number": "63",
+            "line_number": 783
+        },
+        {
+            "branch_number": "64",
+            "line_number": 811
+        },
+        {
+            "branch_number": "65",
+            "line_number": 813
+        },
+        {
+            "branch_number": "66",
+            "line_number": 815
+        },
+        {
+            "branch_number": "151",
+            "line_number": 817
+        },
+        {
+            "branch_number": "67",
+            "line_number": 823
+        },
+        {
+            "branch_number": "68",
+            "line_number": 825
+        },
+        {
+            "branch_number": "69",
+            "line_number": 827
+        },
+        {
+            "branch_number": "70",
+            "line_number": 829
+        },
+        {
+            "branch_number": "71",
+            "line_number": 831
+        },
+        {
+            "branch_number": "72",
+            "line_number": 833
+        },
+        {
+            "branch_number": "73",
+            "line_number": 835
+        },
+        {
+            "branch_number": "74",
+            "line_number": 837
+        },
+        {
+            "branch_number": "75",
+            "line_number": 839
+        },
+        {
+            "branch_number": "152",
+            "line_number": 842
+        },
+        {
+            "branch_number": "76",
+            "line_number": 848
+        },
+        {
+            "branch_number": "153",
+            "line_number": 860
+        },
+        {
+            "branch_number": "77",
+            "line_number": 884
+        },
+        {
+            "branch_number": "78",
+            "line_number": 886
+        },
+        {
+            "branch_number": "79",
+            "line_number": 888
+        },
+        {
+            "branch_number": "154",
+            "line_number": 890
+        },
+        {
+            "branch_number": "80",
+            "line_number": 896
+        },
+        {
+            "branch_number": "81",
+            "line_number": 898
+        },
+        {
+            "branch_number": "82",
+            "line_number": 900
+        },
+        {
+            "branch_number": "83",
+            "line_number": 902
+        },
+        {
+            "branch_number": "84",
+            "line_number": 904
+        },
+        {
+            "branch_number": "85",
+            "line_number": 906
+        },
+        {
+            "branch_number": "86",
+            "line_number": 908
+        },
+        {
+            "branch_number": "87",
+            "line_number": 910
+        },
+        {
+            "branch_number": "88",
+            "line_number": 912
+        },
+        {
+            "branch_number": "155",
+            "line_number": 915
+        },
+        {
+            "branch_number": "89",
+            "line_number": 921
+        },
+        {
+            "branch_number": "156",
+            "line_number": 938
+        },
+        {
+            "branch_number": "157",
+            "line_number": 954
+        },
+        {
+            "branch_number": "158",
+            "line_number": 959
+        },
+        {
+            "branch_number": "159",
+            "line_number": 971
+        },
+        {
+            "branch_number": "160",
+            "line_number": 1017
+        },
+        {
+            "branch_number": "161",
+            "line_number": 1023
+        },
+        {
+            "branch_number": "162",
+            "line_number": 1042
+        },
+        {
+            "branch_number": "163",
+            "line_number": 1066
+        },
+        {
+            "branch_number": "164",
+            "line_number": 1075
+        },
+        {
+            "branch_number": "165",
+            "line_number": 1079
+        },
+        {
+            "branch_number": "166",
+            "line_number": 1091
+        },
+        {
+            "branch_number": "167",
+            "line_number": 1131
+        },
+        {
+            "branch_number": "90",
+            "line_number": 1136
+        },
+        {
+            "branch_number": "91",
+            "line_number": 1138
+        },
+        {
+            "branch_number": "92",
+            "line_number": 1141
+        },
+        {
+            "branch_number": "93",
+            "line_number": 1143
+        },
+        {
+            "branch_number": "94",
+            "line_number": 1145
+        },
+        {
+            "branch_number": "95",
+            "line_number": 1147
+        },
+        {
+            "branch_number": "96",
+            "line_number": 1149
+        },
+        {
+            "branch_number": "97",
+            "line_number": 1151
+        },
+        {
+            "branch_number": "98",
+            "line_number": 1153
+        },
+        {
+            "branch_number": "99",
+            "line_number": 1155
+        },
+        {
+            "branch_number": "100",
+            "line_number": 1157
+        },
+        {
+            "branch_number": "101",
+            "line_number": 1159
+        },
+        {
+            "branch_number": "168",
+            "line_number": 1162
+        },
+        {
+            "branch_number": "102",
+            "line_number": 1168
+        },
+        {
+            "branch_number": "169",
+            "line_number": 1172
+        },
+        {
+            "branch_number": "103",
+            "line_number": 1178
+        },
+        {
+            "branch_number": "170",
+            "line_number": 1185
+        },
+        {
+            "branch_number": "171",
+            "line_number": 1188
+        },
+        {
+            "branch_number": "172",
+            "line_number": 1197
+        },
+        {
+            "branch_number": "173",
+            "line_number": 1205
+        },
+        {
+            "branch_number": "174",
+            "line_number": 1208
+        },
+        {
+            "branch_number": "175",
+            "line_number": 1217
+        },
+        {
+            "branch_number": "176",
+            "line_number": 1224
+        },
+        {
+            "branch_number": "177",
+            "line_number": 1285
+        },
+        {
+            "branch_number": "178",
+            "line_number": 1292
+        },
+        {
+            "branch_number": "179",
+            "line_number": 1301
+        },
+        {
+            "branch_number": "180",
+            "line_number": 1318
+        },
+        {
+            "branch_number": "181",
+            "line_number": 1328
+        },
+        {
+            "branch_number": "182",
+            "line_number": 1338
+        },
+        {
+            "branch_number": "183",
+            "line_number": 1347
+        },
+        {
+            "branch_number": "184",
+            "line_number": 1363
+        },
+        {
+            "branch_number": "185",
+            "line_number": 1373
+        },
+        {
+            "branch_number": "186",
+            "line_number": 1383
+        },
+        {
+            "branch_number": "187",
+            "line_number": 1389
+        },
+        {
+            "branch_number": "188",
+            "line_number": 1408
+        },
+        {
+            "branch_number": "189",
+            "line_number": 1424
+        },
+        {
+            "branch_number": "190",
+            "line_number": 1442
+        },
+        {
+            "branch_number": "191",
+            "line_number": 1452
+        },
+        {
+            "branch_number": "192",
+            "line_number": 1462
+        },
+        {
+            "branch_number": "193",
+            "line_number": 1468
+        },
+        {
+            "branch_number": "194",
+            "line_number": 1487
+        },
+        {
+            "branch_number": "195",
+            "line_number": 1503
+        },
+        {
+            "branch_number": "196",
+            "line_number": 1523
+        },
+        {
+            "branch_number": "197",
+            "line_number": 1529
+        },
+        {
+            "branch_number": "198",
+            "line_number": 1543
+        },
+        {
+            "branch_number": "199",
+            "line_number": 1547
+        },
+        {
+            "branch_number": "200",
+            "line_number": 1563
+        }
+    ],
+    "scenarios/scenario.cc": [
+        {
+            "branch_number": "5",
+            "line_number": 70
+        },
+        {
+            "branch_number": "6",
+            "line_number": 76
+        },
+        {
+            "branch_number": "1",
+            "line_number": 84
+        },
+        {
+            "branch_number": "2",
+            "line_number": 90
+        },
+        {
+            "branch_number": "3",
+            "line_number": 95
+        },
+        {
+            "branch_number": "7",
+            "line_number": 98
+        },
+        {
+            "branch_number": "8",
+            "line_number": 103
+        },
+        {
+            "branch_number": "9",
+            "line_number": 109
+        },
+        {
+            "branch_number": "10",
+            "line_number": 117
+        },
+        {
+            "branch_number": "11",
+            "line_number": 125
+        },
+        {
+            "branch_number": "12",
+            "line_number": 129
+        },
+        {
+            "branch_number": "4",
+            "line_number": 136
+        }
+    ],
+    "scenarios/stage.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 68
+        },
+        {
+            "branch_number": "2",
+            "line_number": 74
+        },
+        {
+            "branch_number": "3",
+            "line_number": 86
+        },
+        {
+            "branch_number": "4",
+            "line_number": 90
+        },
+        {
+            "branch_number": "5",
+            "line_number": 100
+        },
+        {
+            "branch_number": "6",
+            "line_number": 119
+        },
+        {
+            "branch_number": "7",
+            "line_number": 128
+        },
+        {
+            "branch_number": "8",
+            "line_number": 135
+        },
+        {
+            "branch_number": "9",
+            "line_number": 143
+        },
+        {
+            "branch_number": "10",
+            "line_number": 178
+        },
+        {
+            "branch_number": "11",
+            "line_number": 191
+        },
+        {
+            "branch_number": "12",
+            "line_number": 206
+        },
+        {
+            "branch_number": "13",
+            "line_number": 215
+        },
+        {
+            "branch_number": "14",
+            "line_number": 227
+        },
+        {
+            "branch_number": "15",
+            "line_number": 253
+        },
+        {
+            "branch_number": "16",
+            "line_number": 259
+        }
+    ],
+    "scenarios/traffic_light/protected/stage_approach.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 49
+        },
+        {
+            "branch_number": "2",
+            "line_number": 55
+        },
+        {
+            "branch_number": "3",
+            "line_number": 71
+        },
+        {
+            "branch_number": "4",
+            "line_number": 92
+        },
+        {
+            "branch_number": "5",
+            "line_number": 100
+        },
+        {
+            "branch_number": "6",
+            "line_number": 108
+        }
+    ],
+    "scenarios/traffic_light/protected/stage_intersection_cruise.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 38
+        },
+        {
+            "branch_number": "2",
+            "line_number": 47
+        }
+    ],
+    "scenarios/traffic_light/protected/traffic_light_protected_scenario.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 40
+        },
+        {
+            "branch_number": "2",
+            "line_number": 48
+        },
+        {
+            "branch_number": "3",
+            "line_number": 58
+        },
+        {
+            "branch_number": "4",
+            "line_number": 73
+        },
+        {
+            "branch_number": "5",
+            "line_number": 93
+        },
+        {
+            "branch_number": "6",
+            "line_number": 116
+        },
+        {
+            "branch_number": "7",
+            "line_number": 123
+        },
+        {
+            "branch_number": "8",
+            "line_number": 135
+        }
+    ],
+    "scenarios/traffic_light/unprotected_left_turn/stage_approach.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 53
+        },
+        {
+            "branch_number": "2",
+            "line_number": 64
+        },
+        {
+            "branch_number": "3",
+            "line_number": 70
+        },
+        {
+            "branch_number": "4",
+            "line_number": 89
+        },
+        {
+            "branch_number": "5",
+            "line_number": 114
+        },
+        {
+            "branch_number": "6",
+            "line_number": 122
+        },
+        {
+            "branch_number": "7",
+            "line_number": 128
+        },
+        {
+            "branch_number": "8",
+            "line_number": 141
+        },
+        {
+            "branch_number": "9",
+            "line_number": 147
+        }
+    ],
+    "scenarios/traffic_light/unprotected_left_turn/stage_intersection_cruise.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 39
+        },
+        {
+            "branch_number": "2",
+            "line_number": 49
+        }
+    ],
+    "scenarios/traffic_light/unprotected_left_turn/traffic_light_unprotected_left_turn_scenario.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 45
+        },
+        {
+            "branch_number": "2",
+            "line_number": 53
+        },
+        {
+            "branch_number": "3",
+            "line_number": 63
+        },
+        {
+            "branch_number": "4",
+            "line_number": 78
+        },
+        {
+            "branch_number": "5",
+            "line_number": 98
+        },
+        {
+            "branch_number": "6",
+            "line_number": 128
+        },
+        {
+            "branch_number": "7",
+            "line_number": 135
+        },
+        {
+            "branch_number": "8",
+            "line_number": 147
+        }
+    ],
+    "scenarios/traffic_light/unprotected_left_turn/stage_creep.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 52
+        },
+        {
+            "branch_number": "2",
+            "line_number": 59
+        },
+        {
+            "branch_number": "3",
+            "line_number": 65
+        },
+        {
+            "branch_number": "4",
+            "line_number": 78
+        },
+        {
+            "branch_number": "5",
+            "line_number": 94
+        },
+        {
+            "branch_number": "6",
+            "line_number": 105
+        },
+        {
+            "branch_number": "7",
+            "line_number": 115
+        }
+    ],
+    "scenarios/traffic_light/unprotected_right_turn/stage_intersection_cruise.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 38
+        },
+        {
+            "branch_number": "2",
+            "line_number": 48
+        }
+    ],
+    "scenarios/traffic_light/unprotected_right_turn/stage_stop.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 53
+        },
+        {
+            "branch_number": "2",
+            "line_number": 59
+        },
+        {
+            "branch_number": "3",
+            "line_number": 79
+        },
+        {
+            "branch_number": "4",
+            "line_number": 99
+        },
+        {
+            "branch_number": "5",
+            "line_number": 107
+        },
+        {
+            "branch_number": "6",
+            "line_number": 117
+        },
+        {
+            "branch_number": "7",
+            "line_number": 123
+        },
+        {
+            "branch_number": "8",
+            "line_number": 126
+        },
+        {
+            "branch_number": "9",
+            "line_number": 135
+        },
+        {
+            "branch_number": "10",
+            "line_number": 141
+        },
+        {
+            "branch_number": "11",
+            "line_number": 146
+        },
+        {
+            "branch_number": "12",
+            "line_number": 150
+        },
+        {
+            "branch_number": "13",
+            "line_number": 158
+        },
+        {
+            "branch_number": "14",
+            "line_number": 175
+        },
+        {
+            "branch_number": "15",
+            "line_number": 183
+        },
+        {
+            "branch_number": "16",
+            "line_number": 195
+        },
+        {
+            "branch_number": "17",
+            "line_number": 201
+        },
+        {
+            "branch_number": "18",
+            "line_number": 206
+        },
+        {
+            "branch_number": "19",
+            "line_number": 212
+        }
+    ],
+    "scenarios/traffic_light/unprotected_right_turn/traffic_light_unprotected_right_turn_scenario.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 45
+        },
+        {
+            "branch_number": "2",
+            "line_number": 53
+        },
+        {
+            "branch_number": "3",
+            "line_number": 63
+        },
+        {
+            "branch_number": "4",
+            "line_number": 78
+        },
+        {
+            "branch_number": "5",
+            "line_number": 98
+        },
+        {
+            "branch_number": "6",
+            "line_number": 127
+        },
+        {
+            "branch_number": "7",
+            "line_number": 134
+        },
+        {
+            "branch_number": "8",
+            "line_number": 146
+        }
+    ],
+    "scenarios/traffic_light/unprotected_right_turn/stage_creep.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 56
+        },
+        {
+            "branch_number": "2",
+            "line_number": 63
+        },
+        {
+            "branch_number": "3",
+            "line_number": 69
+        },
+        {
+            "branch_number": "4",
+            "line_number": 82
+        },
+        {
+            "branch_number": "5",
+            "line_number": 98
+        },
+        {
+            "branch_number": "6",
+            "line_number": 109
+        },
+        {
+            "branch_number": "7",
+            "line_number": 119
+        }
+    ],
+    "scenarios/util/util.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 39
+        },
+        {
+            "branch_number": "2",
+            "line_number": 46
+        },
+        {
+            "branch_number": "3",
+            "line_number": 52
+        },
+        {
+            "branch_number": "4",
+            "line_number": 59
+        },
+        {
+            "branch_number": "5",
+            "line_number": 65
+        },
+        {
+            "branch_number": "6",
+            "line_number": 72
+        },
+        {
+            "branch_number": "7",
+            "line_number": 78
+        },
+        {
+            "branch_number": "8",
+            "line_number": 85
+        },
+        {
+            "branch_number": "9",
+            "line_number": 108
+        },
+        {
+            "branch_number": "10",
+            "line_number": 122
+        },
+        {
+            "branch_number": "11",
+            "line_number": 134
+        },
+        {
+            "branch_number": "12",
+            "line_number": 142
+        },
+        {
+            "branch_number": "13",
+            "line_number": 174
+        },
+        {
+            "branch_number": "14",
+            "line_number": 217
+        },
+        {
+            "branch_number": "15",
+            "line_number": 290
+        },
+        {
+            "branch_number": "16",
+            "line_number": 298
+        },
+        {
+            "branch_number": "17",
+            "line_number": 330
+        }
+    ],
+    "scenarios/emergency/emergency_pull_over/stage_standby.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 65
+        },
+        {
+            "branch_number": "2",
+            "line_number": 78
+        },
+        {
+            "branch_number": "3",
+            "line_number": 98
+        }
+    ],
+    "scenarios/emergency/emergency_pull_over/stage_approach.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 69
+        },
+        {
+            "branch_number": "2",
+            "line_number": 92
+        },
+        {
+            "branch_number": "3",
+            "line_number": 98
+        },
+        {
+            "branch_number": "4",
+            "line_number": 112
+        }
+    ],
+    "scenarios/emergency/emergency_pull_over/stage_slow_down.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 57
+        },
+        {
+            "branch_number": "2",
+            "line_number": 69
+        },
+        {
+            "branch_number": "3",
+            "line_number": 77
+        }
+    ],
+    "scenarios/emergency/emergency_pull_over/emergency_pull_over_scenario.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 44
+        },
+        {
+            "branch_number": "2",
+            "line_number": 52
+        },
+        {
+            "branch_number": "3",
+            "line_number": 63
+        },
+        {
+            "branch_number": "4",
+            "line_number": 91
+        },
+        {
+            "branch_number": "5",
+            "line_number": 98
+        },
+        {
+            "branch_number": "6",
+            "line_number": 110
+        }
+    ],
+    "scenarios/emergency/emergency_stop/stage_standby.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 59
+        },
+        {
+            "branch_number": "2",
+            "line_number": 65
+        },
+        {
+            "branch_number": "3",
+            "line_number": 73
+        },
+        {
+            "branch_number": "4",
+            "line_number": 99
+        }
+    ],
+    "scenarios/emergency/emergency_stop/stage_approach.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 70
+        },
+        {
+            "branch_number": "2",
+            "line_number": 76
+        },
+        {
+            "branch_number": "3",
+            "line_number": 84
+        },
+        {
+            "branch_number": "4",
+            "line_number": 117
+        },
+        {
+            "branch_number": "5",
+            "line_number": 127
+        }
+    ],
+    "scenarios/emergency/emergency_stop/emergency_stop_scenario.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 41
+        },
+        {
+            "branch_number": "2",
+            "line_number": 49
+        },
+        {
+            "branch_number": "3",
+            "line_number": 60
+        },
+        {
+            "branch_number": "4",
+            "line_number": 82
+        },
+        {
+            "branch_number": "5",
+            "line_number": 89
+        },
+        {
+            "branch_number": "6",
+            "line_number": 101
+        }
+    ],
+    "scenarios/lane_follow/lane_follow_scenario.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 36
+        }
+    ],
+    "scenarios/lane_follow/lane_follow_stage.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 69
+        },
+        {
+            "branch_number": "2",
+            "line_number": 85
+        },
+        {
+            "branch_number": "3",
+            "line_number": 110
+        },
+        {
+            "branch_number": "4",
+            "line_number": 118
+        },
+        {
+            "branch_number": "5",
+            "line_number": 128
+        },
+        {
+            "branch_number": "6",
+            "line_number": 131
+        },
+        {
+            "branch_number": "7",
+            "line_number": 139
+        },
+        {
+            "branch_number": "8",
+            "line_number": 149
+        },
+        {
+            "branch_number": "9",
+            "line_number": 158
+        },
+        {
+            "branch_number": "10",
+            "line_number": 164
+        },
+        {
+            "branch_number": "11",
+            "line_number": 178
+        },
+        {
+            "branch_number": "12",
+            "line_number": 200
+        },
+        {
+            "branch_number": "13",
+            "line_number": 220
+        },
+        {
+            "branch_number": "14",
+            "line_number": 229
+        },
+        {
+            "branch_number": "15",
+            "line_number": 243
+        },
+        {
+            "branch_number": "16",
+            "line_number": 254
+        },
+        {
+            "branch_number": "17",
+            "line_number": 259
+        },
+        {
+            "branch_number": "18",
+            "line_number": 264
+        },
+        {
+            "branch_number": "19",
+            "line_number": 268
+        },
+        {
+            "branch_number": "20",
+            "line_number": 272
+        },
+        {
+            "branch_number": "21",
+            "line_number": 277
+        },
+        {
+            "branch_number": "22",
+            "line_number": 283
+        },
+        {
+            "branch_number": "23",
+            "line_number": 292
+        },
+        {
+            "branch_number": "24",
+            "line_number": 296
+        },
+        {
+            "branch_number": "25",
+            "line_number": 314
+        },
+        {
+            "branch_number": "26",
+            "line_number": 324
+        },
+        {
+            "branch_number": "27",
+            "line_number": 329
+        },
+        {
+            "branch_number": "28",
+            "line_number": 335
+        },
+        {
+            "branch_number": "29",
+            "line_number": 350
+        },
+        {
+            "branch_number": "30",
+            "line_number": 369
+        },
+        {
+            "branch_number": "31",
+            "line_number": 415
+        },
+        {
+            "branch_number": "32",
+            "line_number": 432
+        }
+    ],
+    "scenarios/bare_intersection/unprotected/stage_approach.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 50
+        },
+        {
+            "branch_number": "2",
+            "line_number": 60
+        },
+        {
+            "branch_number": "3",
+            "line_number": 70
+        },
+        {
+            "branch_number": "4",
+            "line_number": 84
+        },
+        {
+            "branch_number": "5",
+            "line_number": 100
+        },
+        {
+            "branch_number": "6",
+            "line_number": 109
+        },
+        {
+            "branch_number": "7",
+            "line_number": 116
+        },
+        {
+            "branch_number": "8",
+            "line_number": 120
+        },
+        {
+            "branch_number": "9",
+            "line_number": 130
+        },
+        {
+            "branch_number": "10",
+            "line_number": 134
+        },
+        {
+            "branch_number": "11",
+            "line_number": 143
+        },
+        {
+            "branch_number": "12",
+            "line_number": 175
+        },
+        {
+            "branch_number": "13",
+            "line_number": 180
+        },
+        {
+            "branch_number": "14",
+            "line_number": 199
+        }
+    ],
+    "scenarios/bare_intersection/unprotected/stage_intersection_cruise.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 40
+        },
+        {
+            "branch_number": "2",
+            "line_number": 49
+        }
+    ],
+    "scenarios/bare_intersection/unprotected/bare_intersection_unprotected_scenario.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 42
+        },
+        {
+            "branch_number": "2",
+            "line_number": 50
+        },
+        {
+            "branch_number": "3",
+            "line_number": 62
+        },
+        {
+            "branch_number": "4",
+            "line_number": 71
+        },
+        {
+            "branch_number": "5",
+            "line_number": 90
+        },
+        {
+            "branch_number": "6",
+            "line_number": 113
+        },
+        {
+            "branch_number": "7",
+            "line_number": 120
+        },
+        {
+            "branch_number": "8",
+            "line_number": 132
+        }
+    ],
+    "scenarios/stop_sign/unprotected/stop_sign_unprotected_scenario.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 55
+        },
+        {
+            "branch_number": "2",
+            "line_number": 63
+        },
+        {
+            "branch_number": "3",
+            "line_number": 74
+        },
+        {
+            "branch_number": "4",
+            "line_number": 82
+        },
+        {
+            "branch_number": "5",
+            "line_number": 98
+        },
+        {
+            "branch_number": "6",
+            "line_number": 132
+        },
+        {
+            "branch_number": "7",
+            "line_number": 139
+        },
+        {
+            "branch_number": "8",
+            "line_number": 151
+        },
+        {
+            "branch_number": "9",
+            "line_number": 173
+        },
+        {
+            "branch_number": "10",
+            "line_number": 182
+        },
+        {
+            "branch_number": "11",
+            "line_number": 190
+        }
+    ],
+    "scenarios/stop_sign/unprotected/stage_pre_stop.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 64
+        },
+        {
+            "branch_number": "2",
+            "line_number": 79
+        },
+        {
+            "branch_number": "3",
+            "line_number": 89
+        },
+        {
+            "branch_number": "4",
+            "line_number": 93
+        },
+        {
+            "branch_number": "5",
+            "line_number": 98
+        },
+        {
+            "branch_number": "6",
+            "line_number": 158
+        },
+        {
+            "branch_number": "7",
+            "line_number": 173
+        },
+        {
+            "branch_number": "8",
+            "line_number": 193
+        },
+        {
+            "branch_number": "9",
+            "line_number": 205
+        },
+        {
+            "branch_number": "10",
+            "line_number": 216
+        },
+        {
+            "branch_number": "11",
+            "line_number": 231
+        },
+        {
+            "branch_number": "12",
+            "line_number": 253
+        },
+        {
+            "branch_number": "13",
+            "line_number": 267
+        }
+    ],
+    "scenarios/stop_sign/unprotected/stage_intersection_cruise.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 38
+        },
+        {
+            "branch_number": "2",
+            "line_number": 47
+        }
+    ],
+    "scenarios/stop_sign/unprotected/stage_stop.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 62
+        },
+        {
+            "branch_number": "2",
+            "line_number": 77
+        },
+        {
+            "branch_number": "3",
+            "line_number": 92
+        },
+        {
+            "branch_number": "4",
+            "line_number": 103
+        },
+        {
+            "branch_number": "5",
+            "line_number": 111
+        },
+        {
+            "branch_number": "6",
+            "line_number": 137
+        },
+        {
+            "branch_number": "7",
+            "line_number": 154
+        },
+        {
+            "branch_number": "8",
+            "line_number": 183
+        },
+        {
+            "branch_number": "9",
+            "line_number": 191
+        },
+        {
+            "branch_number": "10",
+            "line_number": 203
+        },
+        {
+            "branch_number": "11",
+            "line_number": 216
+        },
+        {
+            "branch_number": "12",
+            "line_number": 237
+        }
+    ],
+    "scenarios/stop_sign/unprotected/stage_creep.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 54
+        },
+        {
+            "branch_number": "2",
+            "line_number": 61
+        },
+        {
+            "branch_number": "3",
+            "line_number": 76
+        },
+        {
+            "branch_number": "4",
+            "line_number": 92
+        },
+        {
+            "branch_number": "5",
+            "line_number": 103
+        },
+        {
+            "branch_number": "6",
+            "line_number": 112
+        }
+    ],
+    "tasks/task_factory.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 240
+        }
+    ],
+    "tasks/deciders/path_assessment_decider/path_assessment_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 59
+        },
+        {
+            "branch_number": "2",
+            "line_number": 67
+        },
+        {
+            "branch_number": "3",
+            "line_number": 71
+        },
+        {
+            "branch_number": "4",
+            "line_number": 83
+        },
+        {
+            "branch_number": "5",
+            "line_number": 86
+        },
+        {
+            "branch_number": "6",
+            "line_number": 91
+        },
+        {
+            "branch_number": "7",
+            "line_number": 94
+        },
+        {
+            "branch_number": "8",
+            "line_number": 111
+        },
+        {
+            "branch_number": "9",
+            "line_number": 115
+        },
+        {
+            "branch_number": "10",
+            "line_number": 118
+        },
+        {
+            "branch_number": "11",
+            "line_number": 130
+        },
+        {
+            "branch_number": "12",
+            "line_number": 137
+        },
+        {
+            "branch_number": "13",
+            "line_number": 146
+        },
+        {
+            "branch_number": "14",
+            "line_number": 149
+        },
+        {
+            "branch_number": "15",
+            "line_number": 164
+        },
+        {
+            "branch_number": "16",
+            "line_number": 184
+        },
+        {
+            "branch_number": "17",
+            "line_number": 204
+        },
+        {
+            "branch_number": "18",
+            "line_number": 215
+        },
+        {
+            "branch_number": "19",
+            "line_number": 228
+        },
+        {
+            "branch_number": "20",
+            "line_number": 237
+        },
+        {
+            "branch_number": "21",
+            "line_number": 244
+        },
+        {
+            "branch_number": "22",
+            "line_number": 251
+        },
+        {
+            "branch_number": "23",
+            "line_number": 262
+        },
+        {
+            "branch_number": "24",
+            "line_number": 269
+        },
+        {
+            "branch_number": "25",
+            "line_number": 277
+        },
+        {
+            "branch_number": "26",
+            "line_number": 283
+        },
+        {
+            "branch_number": "27",
+            "line_number": 304
+        },
+        {
+            "branch_number": "28",
+            "line_number": 310
+        },
+        {
+            "branch_number": "29",
+            "line_number": 319
+        },
+        {
+            "branch_number": "30",
+            "line_number": 332
+        },
+        {
+            "branch_number": "31",
+            "line_number": 336
+        },
+        {
+            "branch_number": "32",
+            "line_number": 340
+        },
+        {
+            "branch_number": "33",
+            "line_number": 345
+        },
+        {
+            "branch_number": "34",
+            "line_number": 349
+        },
+        {
+            "branch_number": "35",
+            "line_number": 362
+        },
+        {
+            "branch_number": "36",
+            "line_number": 372
+        },
+        {
+            "branch_number": "37",
+            "line_number": 375
+        },
+        {
+            "branch_number": "38",
+            "line_number": 388
+        },
+        {
+            "branch_number": "39",
+            "line_number": 393
+        },
+        {
+            "branch_number": "40",
+            "line_number": 397
+        },
+        {
+            "branch_number": "41",
+            "line_number": 411
+        },
+        {
+            "branch_number": "42",
+            "line_number": 420
+        },
+        {
+            "branch_number": "43",
+            "line_number": 434
+        },
+        {
+            "branch_number": "44",
+            "line_number": 441
+        },
+        {
+            "branch_number": "45",
+            "line_number": 448
+        },
+        {
+            "branch_number": "46",
+            "line_number": 455
+        },
+        {
+            "branch_number": "47",
+            "line_number": 462
+        },
+        {
+            "branch_number": "48",
+            "line_number": 475
+        },
+        {
+            "branch_number": "49",
+            "line_number": 482
+        },
+        {
+            "branch_number": "50",
+            "line_number": 489
+        },
+        {
+            "branch_number": "51",
+            "line_number": 509
+        },
+        {
+            "branch_number": "52",
+            "line_number": 515
+        },
+        {
+            "branch_number": "53",
+            "line_number": 520
+        },
+        {
+            "branch_number": "54",
+            "line_number": 535
+        },
+        {
+            "branch_number": "55",
+            "line_number": 550
+        },
+        {
+            "branch_number": "56",
+            "line_number": 555
+        },
+        {
+            "branch_number": "57",
+            "line_number": 559
+        },
+        {
+            "branch_number": "58",
+            "line_number": 576
+        },
+        {
+            "branch_number": "59",
+            "line_number": 595
+        },
+        {
+            "branch_number": "60",
+            "line_number": 599
+        },
+        {
+            "branch_number": "61",
+            "line_number": 619
+        },
+        {
+            "branch_number": "62",
+            "line_number": 628
+        },
+        {
+            "branch_number": "63",
+            "line_number": 645
+        },
+        {
+            "branch_number": "64",
+            "line_number": 659
+        },
+        {
+            "branch_number": "65",
+            "line_number": 669
+        },
+        {
+            "branch_number": "66",
+            "line_number": 686
+        },
+        {
+            "branch_number": "67",
+            "line_number": 694
+        },
+        {
+            "branch_number": "68",
+            "line_number": 705
+        },
+        {
+            "branch_number": "69",
+            "line_number": 713
+        },
+        {
+            "branch_number": "70",
+            "line_number": 722
+        },
+        {
+            "branch_number": "71",
+            "line_number": 731
+        },
+        {
+            "branch_number": "72",
+            "line_number": 745
+        },
+        {
+            "branch_number": "73",
+            "line_number": 750
+        },
+        {
+            "branch_number": "74",
+            "line_number": 758
+        },
+        {
+            "branch_number": "75",
+            "line_number": 763
+        },
+        {
+            "branch_number": "76",
+            "line_number": 819
+        },
+        {
+            "branch_number": "77",
+            "line_number": 830
+        },
+        {
+            "branch_number": "78",
+            "line_number": 839
+        },
+        {
+            "branch_number": "79",
+            "line_number": 845
+        },
+        {
+            "branch_number": "80",
+            "line_number": 854
+        },
+        {
+            "branch_number": "81",
+            "line_number": 860
+        },
+        {
+            "branch_number": "82",
+            "line_number": 867
+        },
+        {
+            "branch_number": "83",
+            "line_number": 876
+        },
+        {
+            "branch_number": "84",
+            "line_number": 879
+        },
+        {
+            "branch_number": "85",
+            "line_number": 885
+        },
+        {
+            "branch_number": "86",
+            "line_number": 890
+        },
+        {
+            "branch_number": "87",
+            "line_number": 896
+        },
+        {
+            "branch_number": "88",
+            "line_number": 902
+        },
+        {
+            "branch_number": "89",
+            "line_number": 908
+        },
+        {
+            "branch_number": "90",
+            "line_number": 914
+        },
+        {
+            "branch_number": "91",
+            "line_number": 921
+        },
+        {
+            "branch_number": "92",
+            "line_number": 942
+        },
+        {
+            "branch_number": "93",
+            "line_number": 949
+        },
+        {
+            "branch_number": "94",
+            "line_number": 991
+        },
+        {
+            "branch_number": "95",
+            "line_number": 1008
+        }
+    ],
+    "tasks/deciders/speed_bounds_decider/speed_bounds_decider.cc": [
+        {
+            "branch_number": "7",
+            "line_number": 68
+        },
+        {
+            "branch_number": "8",
+            "line_number": 75
+        },
+        {
+            "branch_number": "9",
+            "line_number": 91
+        },
+        {
+            "branch_number": "10",
+            "line_number": 94
+        },
+        {
+            "branch_number": "11",
+            "line_number": 98
+        },
+        {
+            "branch_number": "12",
+            "line_number": 116
+        },
+        {
+            "branch_number": "13",
+            "line_number": 158
+        },
+        {
+            "branch_number": "14",
+            "line_number": 168
+        },
+        {
+            "branch_number": "15",
+            "line_number": 171
+        },
+        {
+            "branch_number": "16",
+            "line_number": 176
+        },
+        {
+            "branch_number": "17",
+            "line_number": 191
+        },
+        {
+            "branch_number": "1",
+            "line_number": 202
+        },
+        {
+            "branch_number": "2",
+            "line_number": 206
+        },
+        {
+            "branch_number": "3",
+            "line_number": 211
+        },
+        {
+            "branch_number": "4",
+            "line_number": 215
+        },
+        {
+            "branch_number": "5",
+            "line_number": 220
+        },
+        {
+            "branch_number": "6",
+            "line_number": 224
+        }
+    ],
+    "tasks/deciders/speed_bounds_decider/speed_limit_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 59
+        },
+        {
+            "branch_number": "2",
+            "line_number": 87
+        },
+        {
+            "branch_number": "3",
+            "line_number": 92
+        },
+        {
+            "branch_number": "4",
+            "line_number": 117
+        },
+        {
+            "branch_number": "5",
+            "line_number": 143
+        },
+        {
+            "branch_number": "6",
+            "line_number": 147
+        },
+        {
+            "branch_number": "7",
+            "line_number": 152
+        },
+        {
+            "branch_number": "8",
+            "line_number": 165
+        },
+        {
+            "branch_number": "9",
+            "line_number": 173
+        }
+    ],
+    "tasks/deciders/speed_bounds_decider/st_boundary_mapper.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 69
+        },
+        {
+            "branch_number": "2",
+            "line_number": 88
+        },
+        {
+            "branch_number": "3",
+            "line_number": 97
+        },
+        {
+            "branch_number": "4",
+            "line_number": 106
+        },
+        {
+            "branch_number": "5",
+            "line_number": 114
+        },
+        {
+            "branch_number": "6",
+            "line_number": 120
+        },
+        {
+            "branch_number": "7",
+            "line_number": 127
+        },
+        {
+            "branch_number": "8",
+            "line_number": 131
+        },
+        {
+            "branch_number": "9",
+            "line_number": 153
+        },
+        {
+            "branch_number": "10",
+            "line_number": 158
+        },
+        {
+            "branch_number": "11",
+            "line_number": 162
+        },
+        {
+            "branch_number": "12",
+            "line_number": 189
+        },
+        {
+            "branch_number": "13",
+            "line_number": 198
+        },
+        {
+            "branch_number": "14",
+            "line_number": 210
+        },
+        {
+            "branch_number": "15",
+            "line_number": 214
+        },
+        {
+            "branch_number": "16",
+            "line_number": 230
+        },
+        {
+            "branch_number": "17",
+            "line_number": 248
+        },
+        {
+            "branch_number": "18",
+            "line_number": 253
+        },
+        {
+            "branch_number": "19",
+            "line_number": 261
+        },
+        {
+            "branch_number": "20",
+            "line_number": 268
+        },
+        {
+            "branch_number": "21",
+            "line_number": 288
+        },
+        {
+            "branch_number": "22",
+            "line_number": 295
+        },
+        {
+            "branch_number": "23",
+            "line_number": 301
+        },
+        {
+            "branch_number": "24",
+            "line_number": 308
+        },
+        {
+            "branch_number": "25",
+            "line_number": 320
+        },
+        {
+            "branch_number": "26",
+            "line_number": 333
+        },
+        {
+            "branch_number": "27",
+            "line_number": 354
+        },
+        {
+            "branch_number": "28",
+            "line_number": 359
+        },
+        {
+            "branch_number": "29",
+            "line_number": 364
+        },
+        {
+            "branch_number": "30",
+            "line_number": 368
+        },
+        {
+            "branch_number": "31",
+            "line_number": 374
+        },
+        {
+            "branch_number": "32",
+            "line_number": 379
+        },
+        {
+            "branch_number": "33",
+            "line_number": 383
+        },
+        {
+            "branch_number": "34",
+            "line_number": 390
+        },
+        {
+            "branch_number": "35",
+            "line_number": 422
+        },
+        {
+            "branch_number": "36",
+            "line_number": 428
+        },
+        {
+            "branch_number": "37",
+            "line_number": 432
+        },
+        {
+            "branch_number": "38",
+            "line_number": 444
+        },
+        {
+            "branch_number": "39",
+            "line_number": 449
+        },
+        {
+            "branch_number": "40",
+            "line_number": 456
+        },
+        {
+            "branch_number": "41",
+            "line_number": 461
+        }
+    ],
+    "tasks/deciders/path_lane_borrow_decider/path_lane_borrow_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 49
+        },
+        {
+            "branch_number": "2",
+            "line_number": 62
+        },
+        {
+            "branch_number": "3",
+            "line_number": 75
+        },
+        {
+            "branch_number": "4",
+            "line_number": 79
+        },
+        {
+            "branch_number": "5",
+            "line_number": 88
+        },
+        {
+            "branch_number": "6",
+            "line_number": 95
+        },
+        {
+            "branch_number": "7",
+            "line_number": 100
+        },
+        {
+            "branch_number": "8",
+            "line_number": 107
+        },
+        {
+            "branch_number": "9",
+            "line_number": 112
+        },
+        {
+            "branch_number": "10",
+            "line_number": 117
+        },
+        {
+            "branch_number": "11",
+            "line_number": 122
+        },
+        {
+            "branch_number": "12",
+            "line_number": 132
+        },
+        {
+            "branch_number": "13",
+            "line_number": 139
+        },
+        {
+            "branch_number": "14",
+            "line_number": 144
+        },
+        {
+            "branch_number": "15",
+            "line_number": 148
+        },
+        {
+            "branch_number": "16",
+            "line_number": 154
+        },
+        {
+            "branch_number": "17",
+            "line_number": 184
+        },
+        {
+            "branch_number": "18",
+            "line_number": 189
+        },
+        {
+            "branch_number": "19",
+            "line_number": 203
+        },
+        {
+            "branch_number": "20",
+            "line_number": 212
+        },
+        {
+            "branch_number": "21",
+            "line_number": 227
+        },
+        {
+            "branch_number": "22",
+            "line_number": 241
+        },
+        {
+            "branch_number": "23",
+            "line_number": 250
+        },
+        {
+            "branch_number": "24",
+            "line_number": 270
+        },
+        {
+            "branch_number": "25",
+            "line_number": 278
+        },
+        {
+            "branch_number": "26",
+            "line_number": 281
+        },
+        {
+            "branch_number": "27",
+            "line_number": 288
+        },
+        {
+            "branch_number": "28",
+            "line_number": 291
+        },
+        {
+            "branch_number": "29",
+            "line_number": 310
+        },
+        {
+            "branch_number": "30",
+            "line_number": 319
+        },
+        {
+            "branch_number": "31",
+            "line_number": 343
+        },
+        {
+            "branch_number": "32",
+            "line_number": 355
+        },
+        {
+            "branch_number": "33",
+            "line_number": 360
+        },
+        {
+            "branch_number": "34",
+            "line_number": 368
+        },
+        {
+            "branch_number": "35",
+            "line_number": 373
+        }
+    ],
+    "tasks/deciders/path_reference_decider/path_reference_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 70
+        },
+        {
+            "branch_number": "2",
+            "line_number": 94
+        },
+        {
+            "branch_number": "3",
+            "line_number": 129
+        },
+        {
+            "branch_number": "4",
+            "line_number": 155
+        },
+        {
+            "branch_number": "5",
+            "line_number": 182
+        },
+        {
+            "branch_number": "6",
+            "line_number": 210
+        },
+        {
+            "branch_number": "7",
+            "line_number": 282
+        },
+        {
+            "branch_number": "8",
+            "line_number": 292
+        },
+        {
+            "branch_number": "9",
+            "line_number": 309
+        },
+        {
+            "branch_number": "10",
+            "line_number": 347
+        },
+        {
+            "branch_number": "11",
+            "line_number": 434
+        },
+        {
+            "branch_number": "12",
+            "line_number": 445
+        },
+        {
+            "branch_number": "13",
+            "line_number": 451
+        },
+        {
+            "branch_number": "14",
+            "line_number": 459
+        },
+        {
+            "branch_number": "15",
+            "line_number": 483
+        }
+    ],
+    "tasks/deciders/st_bounds_decider/st_bounds_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 63
+        },
+        {
+            "branch_number": "2",
+            "line_number": 69
+        },
+        {
+            "branch_number": "3",
+            "line_number": 116
+        },
+        {
+            "branch_number": "4",
+            "line_number": 122
+        },
+        {
+            "branch_number": "5",
+            "line_number": 163
+        },
+        {
+            "branch_number": "6",
+            "line_number": 184
+        },
+        {
+            "branch_number": "7",
+            "line_number": 192
+        },
+        {
+            "branch_number": "8",
+            "line_number": 203
+        },
+        {
+            "branch_number": "9",
+            "line_number": 209
+        },
+        {
+            "branch_number": "10",
+            "line_number": 220
+        },
+        {
+            "branch_number": "11",
+            "line_number": 228
+        },
+        {
+            "branch_number": "12",
+            "line_number": 233
+        },
+        {
+            "branch_number": "13",
+            "line_number": 239
+        },
+        {
+            "branch_number": "14",
+            "line_number": 285
+        },
+        {
+            "branch_number": "15",
+            "line_number": 305
+        },
+        {
+            "branch_number": "16",
+            "line_number": 317
+        },
+        {
+            "branch_number": "17",
+            "line_number": 323
+        },
+        {
+            "branch_number": "18",
+            "line_number": 337
+        },
+        {
+            "branch_number": "19",
+            "line_number": 345
+        },
+        {
+            "branch_number": "20",
+            "line_number": 350
+        },
+        {
+            "branch_number": "21",
+            "line_number": 356
+        },
+        {
+            "branch_number": "22",
+            "line_number": 381
+        },
+        {
+            "branch_number": "23",
+            "line_number": 385
+        },
+        {
+            "branch_number": "24",
+            "line_number": 392
+        },
+        {
+            "branch_number": "25",
+            "line_number": 429
+        },
+        {
+            "branch_number": "26",
+            "line_number": 432
+        },
+        {
+            "branch_number": "27",
+            "line_number": 447
+        },
+        {
+            "branch_number": "28",
+            "line_number": 450
+        },
+        {
+            "branch_number": "29",
+            "line_number": 467
+        },
+        {
+            "branch_number": "30",
+            "line_number": 478
+        },
+        {
+            "branch_number": "31",
+            "line_number": 483
+        },
+        {
+            "branch_number": "32",
+            "line_number": 488
+        }
+    ],
+    "tasks/deciders/st_bounds_decider/st_driving_limits.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 46
+        },
+        {
+            "branch_number": "2",
+            "line_number": 52
+        },
+        {
+            "branch_number": "3",
+            "line_number": 60
+        },
+        {
+            "branch_number": "4",
+            "line_number": 66
+        },
+        {
+            "branch_number": "5",
+            "line_number": 81
+        },
+        {
+            "branch_number": "6",
+            "line_number": 89
+        }
+    ],
+    "tasks/deciders/st_bounds_decider/st_guide_line.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 57
+        },
+        {
+            "branch_number": "2",
+            "line_number": 69
+        },
+        {
+            "branch_number": "3",
+            "line_number": 72
+        },
+        {
+            "branch_number": "4",
+            "line_number": 78
+        },
+        {
+            "branch_number": "5",
+            "line_number": 81
+        }
+    ],
+    "tasks/deciders/st_bounds_decider/st_obstacles_processor.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 77
+        },
+        {
+            "branch_number": "2",
+            "line_number": 84
+        },
+        {
+            "branch_number": "3",
+            "line_number": 91
+        },
+        {
+            "branch_number": "4",
+            "line_number": 98
+        },
+        {
+            "branch_number": "5",
+            "line_number": 114
+        },
+        {
+            "branch_number": "6",
+            "line_number": 117
+        },
+        {
+            "branch_number": "7",
+            "line_number": 122
+        },
+        {
+            "branch_number": "8",
+            "line_number": 127
+        },
+        {
+            "branch_number": "9",
+            "line_number": 130
+        },
+        {
+            "branch_number": "10",
+            "line_number": 146
+        },
+        {
+            "branch_number": "11",
+            "line_number": 160
+        },
+        {
+            "branch_number": "12",
+            "line_number": 169
+        },
+        {
+            "branch_number": "13",
+            "line_number": 193
+        },
+        {
+            "branch_number": "14",
+            "line_number": 202
+        },
+        {
+            "branch_number": "15",
+            "line_number": 208
+        },
+        {
+            "branch_number": "16",
+            "line_number": 215
+        },
+        {
+            "branch_number": "17",
+            "line_number": 221
+        },
+        {
+            "branch_number": "18",
+            "line_number": 241
+        },
+        {
+            "branch_number": "19",
+            "line_number": 252
+        },
+        {
+            "branch_number": "20",
+            "line_number": 258
+        },
+        {
+            "branch_number": "21",
+            "line_number": 278
+        },
+        {
+            "branch_number": "22",
+            "line_number": 283
+        },
+        {
+            "branch_number": "23",
+            "line_number": 289
+        },
+        {
+            "branch_number": "24",
+            "line_number": 310
+        },
+        {
+            "branch_number": "25",
+            "line_number": 314
+        },
+        {
+            "branch_number": "26",
+            "line_number": 331
+        },
+        {
+            "branch_number": "27",
+            "line_number": 350
+        },
+        {
+            "branch_number": "28",
+            "line_number": 353
+        },
+        {
+            "branch_number": "29",
+            "line_number": 359
+        },
+        {
+            "branch_number": "30",
+            "line_number": 362
+        },
+        {
+            "branch_number": "31",
+            "line_number": 387
+        },
+        {
+            "branch_number": "32",
+            "line_number": 400
+        },
+        {
+            "branch_number": "33",
+            "line_number": 405
+        },
+        {
+            "branch_number": "34",
+            "line_number": 423
+        },
+        {
+            "branch_number": "35",
+            "line_number": 432
+        },
+        {
+            "branch_number": "36",
+            "line_number": 454
+        },
+        {
+            "branch_number": "37",
+            "line_number": 458
+        },
+        {
+            "branch_number": "38",
+            "line_number": 464
+        },
+        {
+            "branch_number": "39",
+            "line_number": 479
+        },
+        {
+            "branch_number": "40",
+            "line_number": 482
+        },
+        {
+            "branch_number": "41",
+            "line_number": 491
+        },
+        {
+            "branch_number": "42",
+            "line_number": 500
+        },
+        {
+            "branch_number": "43",
+            "line_number": 510
+        },
+        {
+            "branch_number": "44",
+            "line_number": 538
+        },
+        {
+            "branch_number": "45",
+            "line_number": 544
+        },
+        {
+            "branch_number": "46",
+            "line_number": 575
+        },
+        {
+            "branch_number": "47",
+            "line_number": 580
+        },
+        {
+            "branch_number": "48",
+            "line_number": 591
+        },
+        {
+            "branch_number": "49",
+            "line_number": 601
+        },
+        {
+            "branch_number": "50",
+            "line_number": 617
+        },
+        {
+            "branch_number": "51",
+            "line_number": 625
+        },
+        {
+            "branch_number": "52",
+            "line_number": 629
+        },
+        {
+            "branch_number": "53",
+            "line_number": 635
+        },
+        {
+            "branch_number": "54",
+            "line_number": 639
+        },
+        {
+            "branch_number": "55",
+            "line_number": 648
+        },
+        {
+            "branch_number": "56",
+            "line_number": 674
+        },
+        {
+            "branch_number": "57",
+            "line_number": 679
+        },
+        {
+            "branch_number": "58",
+            "line_number": 685
+        },
+        {
+            "branch_number": "59",
+            "line_number": 690
+        },
+        {
+            "branch_number": "60",
+            "line_number": 695
+        },
+        {
+            "branch_number": "61",
+            "line_number": 706
+        },
+        {
+            "branch_number": "62",
+            "line_number": 715
+        },
+        {
+            "branch_number": "63",
+            "line_number": 723
+        },
+        {
+            "branch_number": "64",
+            "line_number": 738
+        },
+        {
+            "branch_number": "65",
+            "line_number": 743
+        },
+        {
+            "branch_number": "66",
+            "line_number": 747
+        },
+        {
+            "branch_number": "67",
+            "line_number": 754
+        },
+        {
+            "branch_number": "68",
+            "line_number": 760
+        },
+        {
+            "branch_number": "69",
+            "line_number": 765
+        },
+        {
+            "branch_number": "70",
+            "line_number": 772
+        },
+        {
+            "branch_number": "71",
+            "line_number": 778
+        },
+        {
+            "branch_number": "72",
+            "line_number": 784
+        },
+        {
+            "branch_number": "73",
+            "line_number": 809
+        },
+        {
+            "branch_number": "74",
+            "line_number": 814
+        },
+        {
+            "branch_number": "75",
+            "line_number": 862
+        },
+        {
+            "branch_number": "76",
+            "line_number": 866
+        },
+        {
+            "branch_number": "77",
+            "line_number": 877
+        },
+        {
+            "branch_number": "78",
+            "line_number": 881
+        },
+        {
+            "branch_number": "79",
+            "line_number": 886
+        },
+        {
+            "branch_number": "80",
+            "line_number": 890
+        },
+        {
+            "branch_number": "81",
+            "line_number": 904
+        },
+        {
+            "branch_number": "82",
+            "line_number": 908
+        },
+        {
+            "branch_number": "83",
+            "line_number": 919
+        }
+    ],
+    "tasks/deciders/rss_decider/rss_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 56
+        },
+        {
+            "branch_number": "2",
+            "line_number": 78
+        },
+        {
+            "branch_number": "3",
+            "line_number": 85
+        },
+        {
+            "branch_number": "4",
+            "line_number": 91
+        },
+        {
+            "branch_number": "5",
+            "line_number": 97
+        },
+        {
+            "branch_number": "6",
+            "line_number": 110
+        },
+        {
+            "branch_number": "7",
+            "line_number": 251
+        },
+        {
+            "branch_number": "8",
+            "line_number": 259
+        },
+        {
+            "branch_number": "9",
+            "line_number": 271
+        },
+        {
+            "branch_number": "10",
+            "line_number": 279
+        },
+        {
+            "branch_number": "11",
+            "line_number": 292
+        },
+        {
+            "branch_number": "12",
+            "line_number": 304
+        },
+        {
+            "branch_number": "13",
+            "line_number": 323
+        },
+        {
+            "branch_number": "14",
+            "line_number": 332
+        },
+        {
+            "branch_number": "15",
+            "line_number": 337
+        },
+        {
+            "branch_number": "16",
+            "line_number": 342
+        }
+    ],
+    "tasks/deciders/speed_decider/speed_decider.cc": [
+        {
+            "branch_number": "5",
+            "line_number": 60
+        },
+        {
+            "branch_number": "6",
+            "line_number": 73
+        },
+        {
+            "branch_number": "7",
+            "line_number": 86
+        },
+        {
+            "branch_number": "8",
+            "line_number": 91
+        },
+        {
+            "branch_number": "9",
+            "line_number": 97
+        },
+        {
+            "branch_number": "10",
+            "line_number": 101
+        },
+        {
+            "branch_number": "11",
+            "line_number": 107
+        },
+        {
+            "branch_number": "12",
+            "line_number": 111
+        },
+        {
+            "branch_number": "13",
+            "line_number": 115
+        },
+        {
+            "branch_number": "14",
+            "line_number": 128
+        },
+        {
+            "branch_number": "15",
+            "line_number": 131
+        },
+        {
+            "branch_number": "16",
+            "line_number": 151
+        },
+        {
+            "branch_number": "17",
+            "line_number": 155
+        },
+        {
+            "branch_number": "18",
+            "line_number": 159
+        },
+        {
+            "branch_number": "19",
+            "line_number": 172
+        },
+        {
+            "branch_number": "20",
+            "line_number": 187
+        },
+        {
+            "branch_number": "21",
+            "line_number": 199
+        },
+        {
+            "branch_number": "22",
+            "line_number": 210
+        },
+        {
+            "branch_number": "23",
+            "line_number": 216
+        },
+        {
+            "branch_number": "24",
+            "line_number": 223
+        },
+        {
+            "branch_number": "25",
+            "line_number": 238
+        },
+        {
+            "branch_number": "26",
+            "line_number": 248
+        },
+        {
+            "branch_number": "27",
+            "line_number": 262
+        },
+        {
+            "branch_number": "28",
+            "line_number": 268
+        },
+        {
+            "branch_number": "29",
+            "line_number": 276
+        },
+        {
+            "branch_number": "30",
+            "line_number": 280
+        },
+        {
+            "branch_number": "31",
+            "line_number": 288
+        },
+        {
+            "branch_number": "32",
+            "line_number": 293
+        },
+        {
+            "branch_number": "33",
+            "line_number": 304
+        },
+        {
+            "branch_number": "34",
+            "line_number": 307
+        },
+        {
+            "branch_number": "35",
+            "line_number": 310
+        },
+        {
+            "branch_number": "1",
+            "line_number": 319
+        },
+        {
+            "branch_number": "36",
+            "line_number": 321
+        },
+        {
+            "branch_number": "37",
+            "line_number": 325
+        },
+        {
+            "branch_number": "38",
+            "line_number": 331
+        },
+        {
+            "branch_number": "39",
+            "line_number": 335
+        },
+        {
+            "branch_number": "40",
+            "line_number": 340
+        },
+        {
+            "branch_number": "41",
+            "line_number": 346
+        },
+        {
+            "branch_number": "42",
+            "line_number": 351
+        },
+        {
+            "branch_number": "43",
+            "line_number": 358
+        },
+        {
+            "branch_number": "44",
+            "line_number": 363
+        },
+        {
+            "branch_number": "2",
+            "line_number": 371
+        },
+        {
+            "branch_number": "45",
+            "line_number": 373
+        },
+        {
+            "branch_number": "46",
+            "line_number": 379
+        },
+        {
+            "branch_number": "47",
+            "line_number": 384
+        },
+        {
+            "branch_number": "3",
+            "line_number": 392
+        },
+        {
+            "branch_number": "48",
+            "line_number": 394
+        },
+        {
+            "branch_number": "49",
+            "line_number": 399
+        },
+        {
+            "branch_number": "4",
+            "line_number": 412
+        },
+        {
+            "branch_number": "50",
+            "line_number": 425
+        },
+        {
+            "branch_number": "51",
+            "line_number": 430
+        },
+        {
+            "branch_number": "52",
+            "line_number": 446
+        },
+        {
+            "branch_number": "53",
+            "line_number": 453
+        },
+        {
+            "branch_number": "54",
+            "line_number": 471
+        },
+        {
+            "branch_number": "55",
+            "line_number": 495
+        },
+        {
+            "branch_number": "56",
+            "line_number": 533
+        },
+        {
+            "branch_number": "57",
+            "line_number": 573
+        },
+        {
+            "branch_number": "58",
+            "line_number": 602
+        },
+        {
+            "branch_number": "59",
+            "line_number": 609
+        },
+        {
+            "branch_number": "60",
+            "line_number": 618
+        },
+        {
+            "branch_number": "61",
+            "line_number": 625
+        },
+        {
+            "branch_number": "62",
+            "line_number": 636
+        },
+        {
+            "branch_number": "63",
+            "line_number": 643
+        },
+        {
+            "branch_number": "64",
+            "line_number": 669
+        },
+        {
+            "branch_number": "65",
+            "line_number": 674
+        },
+        {
+            "branch_number": "66",
+            "line_number": 678
+        },
+        {
+            "branch_number": "67",
+            "line_number": 681
+        },
+        {
+            "branch_number": "68",
+            "line_number": 688
+        },
+        {
+            "branch_number": "69",
+            "line_number": 695
+        }
+    ],
+    "tasks/deciders/path_reuse_decider/path_reuse_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 54
+        },
+        {
+            "branch_number": "2",
+            "line_number": 67
+        },
+        {
+            "branch_number": "3",
+            "line_number": 83
+        },
+        {
+            "branch_number": "4",
+            "line_number": 94
+        },
+        {
+            "branch_number": "5",
+            "line_number": 109
+        },
+        {
+            "branch_number": "6",
+            "line_number": 126
+        },
+        {
+            "branch_number": "7",
+            "line_number": 140
+        },
+        {
+            "branch_number": "8",
+            "line_number": 145
+        },
+        {
+            "branch_number": "9",
+            "line_number": 150
+        },
+        {
+            "branch_number": "10",
+            "line_number": 157
+        },
+        {
+            "branch_number": "11",
+            "line_number": 179
+        },
+        {
+            "branch_number": "12",
+            "line_number": 210
+        },
+        {
+            "branch_number": "13",
+            "line_number": 216
+        },
+        {
+            "branch_number": "14",
+            "line_number": 235
+        },
+        {
+            "branch_number": "15",
+            "line_number": 270
+        },
+        {
+            "branch_number": "16",
+            "line_number": 273
+        },
+        {
+            "branch_number": "17",
+            "line_number": 278
+        },
+        {
+            "branch_number": "18",
+            "line_number": 292
+        },
+        {
+            "branch_number": "19",
+            "line_number": 304
+        },
+        {
+            "branch_number": "20",
+            "line_number": 311
+        },
+        {
+            "branch_number": "21",
+            "line_number": 329
+        },
+        {
+            "branch_number": "22",
+            "line_number": 334
+        },
+        {
+            "branch_number": "23",
+            "line_number": 346
+        },
+        {
+            "branch_number": "24",
+            "line_number": 356
+        },
+        {
+            "branch_number": "25",
+            "line_number": 390
+        },
+        {
+            "branch_number": "26",
+            "line_number": 424
+        },
+        {
+            "branch_number": "27",
+            "line_number": 447
+        },
+        {
+            "branch_number": "28",
+            "line_number": 471
+        }
+    ],
+    "tasks/deciders/creep_decider/creep_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 65
+        },
+        {
+            "branch_number": "2",
+            "line_number": 79
+        },
+        {
+            "branch_number": "3",
+            "line_number": 88
+        },
+        {
+            "branch_number": "4",
+            "line_number": 96
+        },
+        {
+            "branch_number": "5",
+            "line_number": 103
+        },
+        {
+            "branch_number": "6",
+            "line_number": 111
+        },
+        {
+            "branch_number": "7",
+            "line_number": 118
+        },
+        {
+            "branch_number": "8",
+            "line_number": 126
+        },
+        {
+            "branch_number": "9",
+            "line_number": 135
+        },
+        {
+            "branch_number": "10",
+            "line_number": 171
+        },
+        {
+            "branch_number": "11",
+            "line_number": 177
+        },
+        {
+            "branch_number": "12",
+            "line_number": 183
+        },
+        {
+            "branch_number": "13",
+            "line_number": 202
+        },
+        {
+            "branch_number": "14",
+            "line_number": 217
+        }
+    ],
+    "tasks/deciders/rule_based_stop_decider/rule_based_stop_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 59
+        },
+        {
+            "branch_number": "2",
+            "line_number": 74
+        },
+        {
+            "branch_number": "3",
+            "line_number": 86
+        },
+        {
+            "branch_number": "4",
+            "line_number": 96
+        },
+        {
+            "branch_number": "5",
+            "line_number": 106
+        },
+        {
+            "branch_number": "6",
+            "line_number": 114
+        },
+        {
+            "branch_number": "7",
+            "line_number": 137
+        },
+        {
+            "branch_number": "8",
+            "line_number": 159
+        },
+        {
+            "branch_number": "9",
+            "line_number": 168
+        },
+        {
+            "branch_number": "10",
+            "line_number": 175
+        },
+        {
+            "branch_number": "11",
+            "line_number": 184
+        },
+        {
+            "branch_number": "12",
+            "line_number": 189
+        },
+        {
+            "branch_number": "13",
+            "line_number": 194
+        },
+        {
+            "branch_number": "14",
+            "line_number": 199
+        },
+        {
+            "branch_number": "15",
+            "line_number": 202
+        },
+        {
+            "branch_number": "16",
+            "line_number": 222
+        },
+        {
+            "branch_number": "17",
+            "line_number": 233
+        },
+        {
+            "branch_number": "18",
+            "line_number": 263
+        },
+        {
+            "branch_number": "19",
+            "line_number": 291
+        },
+        {
+            "branch_number": "20",
+            "line_number": 299
+        },
+        {
+            "branch_number": "21",
+            "line_number": 318
+        },
+        {
+            "branch_number": "22",
+            "line_number": 344
+        },
+        {
+            "branch_number": "23",
+            "line_number": 347
+        }
+    ],
+    "tasks/deciders/path_bounds_decider/path_bounds_decider.cc": [
+        {
+            "branch_number": "4",
+            "line_number": 67
+        },
+        {
+            "branch_number": "5",
+            "line_number": 83
+        },
+        {
+            "branch_number": "6",
+            "line_number": 89
+        },
+        {
+            "branch_number": "7",
+            "line_number": 96
+        },
+        {
+            "branch_number": "8",
+            "line_number": 118
+        },
+        {
+            "branch_number": "9",
+            "line_number": 124
+        },
+        {
+            "branch_number": "10",
+            "line_number": 128
+        },
+        {
+            "branch_number": "11",
+            "line_number": 169
+        },
+        {
+            "branch_number": "12",
+            "line_number": 175
+        },
+        {
+            "branch_number": "13",
+            "line_number": 181
+        },
+        {
+            "branch_number": "14",
+            "line_number": 191
+        },
+        {
+            "branch_number": "15",
+            "line_number": 219
+        },
+        {
+            "branch_number": "16",
+            "line_number": 226
+        },
+        {
+            "branch_number": "17",
+            "line_number": 230
+        },
+        {
+            "branch_number": "18",
+            "line_number": 248
+        },
+        {
+            "branch_number": "19",
+            "line_number": 253
+        },
+        {
+            "branch_number": "20",
+            "line_number": 260
+        },
+        {
+            "branch_number": "1",
+            "line_number": 278
+        },
+        {
+            "branch_number": "2",
+            "line_number": 282
+        },
+        {
+            "branch_number": "3",
+            "line_number": 286
+        },
+        {
+            "branch_number": "21",
+            "line_number": 314
+        },
+        {
+            "branch_number": "22",
+            "line_number": 340
+        },
+        {
+            "branch_number": "23",
+            "line_number": 345
+        },
+        {
+            "branch_number": "24",
+            "line_number": 372
+        },
+        {
+            "branch_number": "25",
+            "line_number": 383
+        },
+        {
+            "branch_number": "26",
+            "line_number": 400
+        },
+        {
+            "branch_number": "27",
+            "line_number": 430
+        },
+        {
+            "branch_number": "28",
+            "line_number": 443
+        },
+        {
+            "branch_number": "29",
+            "line_number": 460
+        },
+        {
+            "branch_number": "30",
+            "line_number": 486
+        },
+        {
+            "branch_number": "31",
+            "line_number": 496
+        },
+        {
+            "branch_number": "32",
+            "line_number": 508
+        },
+        {
+            "branch_number": "33",
+            "line_number": 525
+        },
+        {
+            "branch_number": "34",
+            "line_number": 541
+        },
+        {
+            "branch_number": "35",
+            "line_number": 550
+        },
+        {
+            "branch_number": "36",
+            "line_number": 560
+        },
+        {
+            "branch_number": "37",
+            "line_number": 605
+        },
+        {
+            "branch_number": "38",
+            "line_number": 618
+        },
+        {
+            "branch_number": "39",
+            "line_number": 641
+        },
+        {
+            "branch_number": "40",
+            "line_number": 661
+        },
+        {
+            "branch_number": "41",
+            "line_number": 687
+        },
+        {
+            "branch_number": "42",
+            "line_number": 700
+        },
+        {
+            "branch_number": "43",
+            "line_number": 739
+        },
+        {
+            "branch_number": "44",
+            "line_number": 742
+        },
+        {
+            "branch_number": "45",
+            "line_number": 749
+        },
+        {
+            "branch_number": "46",
+            "line_number": 753
+        },
+        {
+            "branch_number": "47",
+            "line_number": 760
+        },
+        {
+            "branch_number": "48",
+            "line_number": 767
+        },
+        {
+            "branch_number": "49",
+            "line_number": 775
+        },
+        {
+            "branch_number": "50",
+            "line_number": 784
+        },
+        {
+            "branch_number": "51",
+            "line_number": 829
+        },
+        {
+            "branch_number": "52",
+            "line_number": 853
+        },
+        {
+            "branch_number": "53",
+            "line_number": 864
+        },
+        {
+            "branch_number": "54",
+            "line_number": 874
+        },
+        {
+            "branch_number": "55",
+            "line_number": 879
+        },
+        {
+            "branch_number": "56",
+            "line_number": 895
+        },
+        {
+            "branch_number": "57",
+            "line_number": 931
+        },
+        {
+            "branch_number": "58",
+            "line_number": 956
+        },
+        {
+            "branch_number": "59",
+            "line_number": 962
+        },
+        {
+            "branch_number": "60",
+            "line_number": 970
+        },
+        {
+            "branch_number": "61",
+            "line_number": 977
+        },
+        {
+            "branch_number": "62",
+            "line_number": 982
+        },
+        {
+            "branch_number": "63",
+            "line_number": 992
+        },
+        {
+            "branch_number": "64",
+            "line_number": 1000
+        },
+        {
+            "branch_number": "65",
+            "line_number": 1013
+        },
+        {
+            "branch_number": "66",
+            "line_number": 1019
+        },
+        {
+            "branch_number": "67",
+            "line_number": 1024
+        },
+        {
+            "branch_number": "68",
+            "line_number": 1054
+        },
+        {
+            "branch_number": "69",
+            "line_number": 1082
+        },
+        {
+            "branch_number": "70",
+            "line_number": 1088
+        },
+        {
+            "branch_number": "71",
+            "line_number": 1106
+        },
+        {
+            "branch_number": "72",
+            "line_number": 1111
+        },
+        {
+            "branch_number": "73",
+            "line_number": 1143
+        },
+        {
+            "branch_number": "74",
+            "line_number": 1149
+        },
+        {
+            "branch_number": "75",
+            "line_number": 1163
+        },
+        {
+            "branch_number": "76",
+            "line_number": 1167
+        },
+        {
+            "branch_number": "77",
+            "line_number": 1173
+        },
+        {
+            "branch_number": "78",
+            "line_number": 1179
+        },
+        {
+            "branch_number": "79",
+            "line_number": 1184
+        },
+        {
+            "branch_number": "80",
+            "line_number": 1189
+        },
+        {
+            "branch_number": "81",
+            "line_number": 1195
+        },
+        {
+            "branch_number": "82",
+            "line_number": 1201
+        },
+        {
+            "branch_number": "83",
+            "line_number": 1206
+        },
+        {
+            "branch_number": "84",
+            "line_number": 1227
+        },
+        {
+            "branch_number": "85",
+            "line_number": 1232
+        },
+        {
+            "branch_number": "86",
+            "line_number": 1240
+        },
+        {
+            "branch_number": "87",
+            "line_number": 1244
+        },
+        {
+            "branch_number": "88",
+            "line_number": 1311
+        },
+        {
+            "branch_number": "89",
+            "line_number": 1317
+        },
+        {
+            "branch_number": "90",
+            "line_number": 1324
+        },
+        {
+            "branch_number": "91",
+            "line_number": 1343
+        },
+        {
+            "branch_number": "92",
+            "line_number": 1347
+        },
+        {
+            "branch_number": "93",
+            "line_number": 1353
+        },
+        {
+            "branch_number": "94",
+            "line_number": 1359
+        },
+        {
+            "branch_number": "95",
+            "line_number": 1364
+        },
+        {
+            "branch_number": "96",
+            "line_number": 1369
+        },
+        {
+            "branch_number": "97",
+            "line_number": 1375
+        },
+        {
+            "branch_number": "98",
+            "line_number": 1381
+        },
+        {
+            "branch_number": "99",
+            "line_number": 1386
+        },
+        {
+            "branch_number": "100",
+            "line_number": 1420
+        },
+        {
+            "branch_number": "101",
+            "line_number": 1439
+        },
+        {
+            "branch_number": "102",
+            "line_number": 1454
+        },
+        {
+            "branch_number": "103",
+            "line_number": 1459
+        },
+        {
+            "branch_number": "104",
+            "line_number": 1468
+        },
+        {
+            "branch_number": "105",
+            "line_number": 1472
+        },
+        {
+            "branch_number": "106",
+            "line_number": 1492
+        },
+        {
+            "branch_number": "107",
+            "line_number": 1505
+        },
+        {
+            "branch_number": "108",
+            "line_number": 1515
+        },
+        {
+            "branch_number": "109",
+            "line_number": 1519
+        },
+        {
+            "branch_number": "110",
+            "line_number": 1552
+        },
+        {
+            "branch_number": "111",
+            "line_number": 1560
+        },
+        {
+            "branch_number": "112",
+            "line_number": 1567
+        },
+        {
+            "branch_number": "113",
+            "line_number": 1587
+        },
+        {
+            "branch_number": "114",
+            "line_number": 1596
+        },
+        {
+            "branch_number": "115",
+            "line_number": 1606
+        },
+        {
+            "branch_number": "116",
+            "line_number": 1662
+        },
+        {
+            "branch_number": "117",
+            "line_number": 1676
+        },
+        {
+            "branch_number": "118",
+            "line_number": 1684
+        },
+        {
+            "branch_number": "119",
+            "line_number": 1690
+        },
+        {
+            "branch_number": "120",
+            "line_number": 1699
+        },
+        {
+            "branch_number": "121",
+            "line_number": 1706
+        },
+        {
+            "branch_number": "122",
+            "line_number": 1710
+        },
+        {
+            "branch_number": "123",
+            "line_number": 1714
+        },
+        {
+            "branch_number": "124",
+            "line_number": 1729
+        },
+        {
+            "branch_number": "125",
+            "line_number": 1734
+        },
+        {
+            "branch_number": "126",
+            "line_number": 1740
+        },
+        {
+            "branch_number": "127",
+            "line_number": 1750
+        },
+        {
+            "branch_number": "128",
+            "line_number": 1761
+        },
+        {
+            "branch_number": "129",
+            "line_number": 1766
+        },
+        {
+            "branch_number": "130",
+            "line_number": 1771
+        },
+        {
+            "branch_number": "131",
+            "line_number": 1781
+        },
+        {
+            "branch_number": "132",
+            "line_number": 1801
+        },
+        {
+            "branch_number": "133",
+            "line_number": 1807
+        },
+        {
+            "branch_number": "134",
+            "line_number": 1828
+        },
+        {
+            "branch_number": "135",
+            "line_number": 1832
+        },
+        {
+            "branch_number": "136",
+            "line_number": 1853
+        },
+        {
+            "branch_number": "137",
+            "line_number": 1863
+        },
+        {
+            "branch_number": "138",
+            "line_number": 1871
+        },
+        {
+            "branch_number": "139",
+            "line_number": 1877
+        },
+        {
+            "branch_number": "140",
+            "line_number": 1891
+        },
+        {
+            "branch_number": "141",
+            "line_number": 1897
+        },
+        {
+            "branch_number": "142",
+            "line_number": 1921
+        },
+        {
+            "branch_number": "143",
+            "line_number": 1926
+        },
+        {
+            "branch_number": "144",
+            "line_number": 1944
+        },
+        {
+            "branch_number": "145",
+            "line_number": 1950
+        },
+        {
+            "branch_number": "146",
+            "line_number": 1961
+        },
+        {
+            "branch_number": "147",
+            "line_number": 1967
+        },
+        {
+            "branch_number": "148",
+            "line_number": 1980
+        },
+        {
+            "branch_number": "149",
+            "line_number": 1986
+        },
+        {
+            "branch_number": "150",
+            "line_number": 2026
+        },
+        {
+            "branch_number": "151",
+            "line_number": 2039
+        },
+        {
+            "branch_number": "152",
+            "line_number": 2043
+        },
+        {
+            "branch_number": "153",
+            "line_number": 2055
+        },
+        {
+            "branch_number": "154",
+            "line_number": 2059
+        },
+        {
+            "branch_number": "155",
+            "line_number": 2065
+        },
+        {
+            "branch_number": "156",
+            "line_number": 2078
+        },
+        {
+            "branch_number": "157",
+            "line_number": 2082
+        },
+        {
+            "branch_number": "158",
+            "line_number": 2132
+        },
+        {
+            "branch_number": "159",
+            "line_number": 2166
+        },
+        {
+            "branch_number": "160",
+            "line_number": 2180
+        },
+        {
+            "branch_number": "161",
+            "line_number": 2183
+        },
+        {
+            "branch_number": "162",
+            "line_number": 2207
+        },
+        {
+            "branch_number": "163",
+            "line_number": 2215
+        },
+        {
+            "branch_number": "164",
+            "line_number": 2224
+        },
+        {
+            "branch_number": "165",
+            "line_number": 2228
+        },
+        {
+            "branch_number": "166",
+            "line_number": 2234
+        }
+    ],
+    "tasks/deciders/path_decider/path_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 55
+        },
+        {
+            "branch_number": "2",
+            "line_number": 62
+        },
+        {
+            "branch_number": "3",
+            "line_number": 67
+        },
+        {
+            "branch_number": "4",
+            "line_number": 81
+        },
+        {
+            "branch_number": "5",
+            "line_number": 99
+        },
+        {
+            "branch_number": "6",
+            "line_number": 117
+        },
+        {
+            "branch_number": "7",
+            "line_number": 126
+        },
+        {
+            "branch_number": "8",
+            "line_number": 132
+        },
+        {
+            "branch_number": "9",
+            "line_number": 143
+        },
+        {
+            "branch_number": "10",
+            "line_number": 156
+        },
+        {
+            "branch_number": "11",
+            "line_number": 167
+        },
+        {
+            "branch_number": "12",
+            "line_number": 184
+        },
+        {
+            "branch_number": "13",
+            "line_number": 191
+        },
+        {
+            "branch_number": "14",
+            "line_number": 200
+        },
+        {
+            "branch_number": "15",
+            "line_number": 205
+        },
+        {
+            "branch_number": "16",
+            "line_number": 213
+        },
+        {
+            "branch_number": "17",
+            "line_number": 217
+        },
+        {
+            "branch_number": "18",
+            "line_number": 228
+        }
+    ],
+    "tasks/deciders/lane_change_decider/lane_change_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 53
+        },
+        {
+            "branch_number": "2",
+            "line_number": 61
+        },
+        {
+            "branch_number": "3",
+            "line_number": 74
+        },
+        {
+            "branch_number": "4",
+            "line_number": 81
+        },
+        {
+            "branch_number": "5",
+            "line_number": 92
+        },
+        {
+            "branch_number": "6",
+            "line_number": 96
+        },
+        {
+            "branch_number": "7",
+            "line_number": 99
+        },
+        {
+            "branch_number": "8",
+            "line_number": 103
+        },
+        {
+            "branch_number": "9",
+            "line_number": 106
+        },
+        {
+            "branch_number": "10",
+            "line_number": 115
+        },
+        {
+            "branch_number": "11",
+            "line_number": 119
+        },
+        {
+            "branch_number": "12",
+            "line_number": 126
+        },
+        {
+            "branch_number": "13",
+            "line_number": 129
+        },
+        {
+            "branch_number": "14",
+            "line_number": 133
+        },
+        {
+            "branch_number": "15",
+            "line_number": 143
+        },
+        {
+            "branch_number": "16",
+            "line_number": 149
+        },
+        {
+            "branch_number": "17",
+            "line_number": 155
+        },
+        {
+            "branch_number": "18",
+            "line_number": 163
+        },
+        {
+            "branch_number": "19",
+            "line_number": 167
+        },
+        {
+            "branch_number": "20",
+            "line_number": 173
+        },
+        {
+            "branch_number": "21",
+            "line_number": 180
+        },
+        {
+            "branch_number": "22",
+            "line_number": 201
+        },
+        {
+            "branch_number": "23",
+            "line_number": 214
+        },
+        {
+            "branch_number": "24",
+            "line_number": 224
+        },
+        {
+            "branch_number": "25",
+            "line_number": 237
+        },
+        {
+            "branch_number": "26",
+            "line_number": 264
+        },
+        {
+            "branch_number": "27",
+            "line_number": 274
+        },
+        {
+            "branch_number": "28",
+            "line_number": 286
+        },
+        {
+            "branch_number": "29",
+            "line_number": 306
+        },
+        {
+            "branch_number": "30",
+            "line_number": 314
+        },
+        {
+            "branch_number": "31",
+            "line_number": 318
+        },
+        {
+            "branch_number": "32",
+            "line_number": 329
+        },
+        {
+            "branch_number": "33",
+            "line_number": 347
+        },
+        {
+            "branch_number": "34",
+            "line_number": 369
+        },
+        {
+            "branch_number": "35",
+            "line_number": 373
+        },
+        {
+            "branch_number": "36",
+            "line_number": 383
+        },
+        {
+            "branch_number": "37",
+            "line_number": 390
+        },
+        {
+            "branch_number": "38",
+            "line_number": 412
+        },
+        {
+            "branch_number": "39",
+            "line_number": 421
+        },
+        {
+            "branch_number": "40",
+            "line_number": 433
+        },
+        {
+            "branch_number": "41",
+            "line_number": 441
+        },
+        {
+            "branch_number": "42",
+            "line_number": 468
+        },
+        {
+            "branch_number": "43",
+            "line_number": 484
+        },
+        {
+            "branch_number": "44",
+            "line_number": 491
+        },
+        {
+            "branch_number": "45",
+            "line_number": 498
+        },
+        {
+            "branch_number": "46",
+            "line_number": 505
+        },
+        {
+            "branch_number": "47",
+            "line_number": 519
+        },
+        {
+            "branch_number": "48",
+            "line_number": 523
+        }
+    ],
+    "tasks/optimizers/speed_optimizer.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 60
+        }
+    ],
+    "tasks/optimizers/path_optimizer.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 51
+        }
+    ],
+    "tasks/optimizers/piecewise_jerk_speed/piecewise_jerk_speed_optimizer.cc": [
+        {
+            "branch_number": "6",
+            "line_number": 54
+        },
+        {
+            "branch_number": "7",
+            "line_number": 63
+        },
+        {
+            "branch_number": "8",
+            "line_number": 110
+        },
+        {
+            "branch_number": "1",
+            "line_number": 116
+        },
+        {
+            "branch_number": "2",
+            "line_number": 118
+        },
+        {
+            "branch_number": "3",
+            "line_number": 122
+        },
+        {
+            "branch_number": "4",
+            "line_number": 127
+        },
+        {
+            "branch_number": "5",
+            "line_number": 131
+        },
+        {
+            "branch_number": "9",
+            "line_number": 136
+        },
+        {
+            "branch_number": "10",
+            "line_number": 176
+        },
+        {
+            "branch_number": "11",
+            "line_number": 197
+        }
+    ],
+    "tasks/optimizers/piecewise_jerk_speed/piecewise_jerk_speed_nonlinear_ipopt_interface.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 59
+        },
+        {
+            "branch_number": "2",
+            "line_number": 88
+        },
+        {
+            "branch_number": "3",
+            "line_number": 96
+        },
+        {
+            "branch_number": "4",
+            "line_number": 123
+        },
+        {
+            "branch_number": "5",
+            "line_number": 131
+        },
+        {
+            "branch_number": "6",
+            "line_number": 180
+        },
+        {
+            "branch_number": "7",
+            "line_number": 229
+        },
+        {
+            "branch_number": "8",
+            "line_number": 241
+        },
+        {
+            "branch_number": "9",
+            "line_number": 266
+        },
+        {
+            "branch_number": "10",
+            "line_number": 276
+        },
+        {
+            "branch_number": "11",
+            "line_number": 303
+        },
+        {
+            "branch_number": "12",
+            "line_number": 352
+        },
+        {
+            "branch_number": "13",
+            "line_number": 365
+        },
+        {
+            "branch_number": "14",
+            "line_number": 427
+        },
+        {
+            "branch_number": "15",
+            "line_number": 440
+        },
+        {
+            "branch_number": "16",
+            "line_number": 498
+        },
+        {
+            "branch_number": "17",
+            "line_number": 513
+        },
+        {
+            "branch_number": "18",
+            "line_number": 545
+        },
+        {
+            "branch_number": "19",
+            "line_number": 636
+        },
+        {
+            "branch_number": "20",
+            "line_number": 656
+        },
+        {
+            "branch_number": "21",
+            "line_number": 691
+        },
+        {
+            "branch_number": "22",
+            "line_number": 759
+        },
+        {
+            "branch_number": "23",
+            "line_number": 776
+        },
+        {
+            "branch_number": "24",
+            "line_number": 810
+        },
+        {
+            "branch_number": "25",
+            "line_number": 850
+        },
+        {
+            "branch_number": "26",
+            "line_number": 895
+        },
+        {
+            "branch_number": "27",
+            "line_number": 940
+        },
+        {
+            "branch_number": "28",
+            "line_number": 998
+        },
+        {
+            "branch_number": "29",
+            "line_number": 1016
+        },
+        {
+            "branch_number": "30",
+            "line_number": 1023
+        }
+    ],
+    "tasks/optimizers/piecewise_jerk_speed/piecewise_jerk_speed_nonlinear_optimizer.cc": [
+        {
+            "branch_number": "11",
+            "line_number": 61
+        },
+        {
+            "branch_number": "12",
+            "line_number": 69
+        },
+        {
+            "branch_number": "13",
+            "line_number": 77
+        },
+        {
+            "branch_number": "14",
+            "line_number": 85
+        },
+        {
+            "branch_number": "15",
+            "line_number": 105
+        },
+        {
+            "branch_number": "16",
+            "line_number": 114
+        },
+        {
+            "branch_number": "17",
+            "line_number": 127
+        },
+        {
+            "branch_number": "18",
+            "line_number": 144
+        },
+        {
+            "branch_number": "19",
+            "line_number": 161
+        },
+        {
+            "branch_number": "20",
+            "line_number": 185
+        },
+        {
+            "branch_number": "21",
+            "line_number": 234
+        },
+        {
+            "branch_number": "22",
+            "line_number": 249
+        },
+        {
+            "branch_number": "1",
+            "line_number": 256
+        },
+        {
+            "branch_number": "2",
+            "line_number": 258
+        },
+        {
+            "branch_number": "3",
+            "line_number": 263
+        },
+        {
+            "branch_number": "23",
+            "line_number": 267
+        },
+        {
+            "branch_number": "4",
+            "line_number": 280
+        },
+        {
+            "branch_number": "5",
+            "line_number": 285
+        },
+        {
+            "branch_number": "24",
+            "line_number": 290
+        },
+        {
+            "branch_number": "25",
+            "line_number": 301
+        },
+        {
+            "branch_number": "26",
+            "line_number": 313
+        },
+        {
+            "branch_number": "6",
+            "line_number": 320
+        },
+        {
+            "branch_number": "7",
+            "line_number": 322
+        },
+        {
+            "branch_number": "8",
+            "line_number": 326
+        },
+        {
+            "branch_number": "9",
+            "line_number": 330
+        },
+        {
+            "branch_number": "10",
+            "line_number": 334
+        },
+        {
+            "branch_number": "27",
+            "line_number": 339
+        },
+        {
+            "branch_number": "28",
+            "line_number": 360
+        },
+        {
+            "branch_number": "29",
+            "line_number": 395
+        },
+        {
+            "branch_number": "30",
+            "line_number": 453
+        },
+        {
+            "branch_number": "31",
+            "line_number": 513
+        },
+        {
+            "branch_number": "32",
+            "line_number": 552
+        },
+        {
+            "branch_number": "33",
+            "line_number": 561
+        },
+        {
+            "branch_number": "34",
+            "line_number": 579
+        },
+        {
+            "branch_number": "35",
+            "line_number": 585
+        },
+        {
+            "branch_number": "36",
+            "line_number": 594
+        },
+        {
+            "branch_number": "37",
+            "line_number": 615
+        },
+        {
+            "branch_number": "38",
+            "line_number": 633
+        },
+        {
+            "branch_number": "39",
+            "line_number": 642
+        },
+        {
+            "branch_number": "40",
+            "line_number": 647
+        },
+        {
+            "branch_number": "41",
+            "line_number": 652
+        }
+    ],
+    "tasks/optimizers/path_time_heuristic/path_time_heuristic_optimizer.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 54
+        },
+        {
+            "branch_number": "2",
+            "line_number": 68
+        },
+        {
+            "branch_number": "3",
+            "line_number": 76
+        }
+    ],
+    "tasks/optimizers/road_graph/dp_road_graph.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 56
+        },
+        {
+            "branch_number": "2",
+            "line_number": 71
+        },
+        {
+            "branch_number": "3",
+            "line_number": 100
+        },
+        {
+            "branch_number": "4",
+            "line_number": 104
+        },
+        {
+            "branch_number": "5",
+            "line_number": 122
+        },
+        {
+            "branch_number": "6",
+            "line_number": 144
+        },
+        {
+            "branch_number": "7",
+            "line_number": 172
+        },
+        {
+            "branch_number": "8",
+            "line_number": 176
+        },
+        {
+            "branch_number": "9",
+            "line_number": 182
+        },
+        {
+            "branch_number": "10",
+            "line_number": 203
+        },
+        {
+            "branch_number": "11",
+            "line_number": 231
+        },
+        {
+            "branch_number": "12",
+            "line_number": 241
+        },
+        {
+            "branch_number": "13",
+            "line_number": 255
+        },
+        {
+            "branch_number": "14",
+            "line_number": 263
+        },
+        {
+            "branch_number": "15",
+            "line_number": 279
+        }
+    ],
+    "tasks/optimizers/road_graph/waypoint_sampler.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 78
+        },
+        {
+            "branch_number": "2",
+            "line_number": 85
+        },
+        {
+            "branch_number": "3",
+            "line_number": 109
+        },
+        {
+            "branch_number": "4",
+            "line_number": 121
+        },
+        {
+            "branch_number": "5",
+            "line_number": 124
+        },
+        {
+            "branch_number": "6",
+            "line_number": 130
+        },
+        {
+            "branch_number": "7",
+            "line_number": 136
+        },
+        {
+            "branch_number": "8",
+            "line_number": 147
+        },
+        {
+            "branch_number": "9",
+            "line_number": 151
+        },
+        {
+            "branch_number": "10",
+            "line_number": 166
+        }
+    ],
+    "tasks/optimizers/road_graph/trajectory_cost.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 56
+        },
+        {
+            "branch_number": "2",
+            "line_number": 60
+        },
+        {
+            "branch_number": "3",
+            "line_number": 73
+        },
+        {
+            "branch_number": "4",
+            "line_number": 85
+        },
+        {
+            "branch_number": "5",
+            "line_number": 90
+        },
+        {
+            "branch_number": "6",
+            "line_number": 94
+        },
+        {
+            "branch_number": "7",
+            "line_number": 133
+        },
+        {
+            "branch_number": "8",
+            "line_number": 146
+        },
+        {
+            "branch_number": "9",
+            "line_number": 161
+        },
+        {
+            "branch_number": "10",
+            "line_number": 190
+        },
+        {
+            "branch_number": "11",
+            "line_number": 196
+        },
+        {
+            "branch_number": "12",
+            "line_number": 224
+        },
+        {
+            "branch_number": "13",
+            "line_number": 236
+        },
+        {
+            "branch_number": "14",
+            "line_number": 241
+        },
+        {
+            "branch_number": "15",
+            "line_number": 270
+        },
+        {
+            "branch_number": "16",
+            "line_number": 282
+        },
+        {
+            "branch_number": "17",
+            "line_number": 293
+        },
+        {
+            "branch_number": "18",
+            "line_number": 300
+        },
+        {
+            "branch_number": "19",
+            "line_number": 315
+        },
+        {
+            "branch_number": "20",
+            "line_number": 332
+        }
+    ],
+    "tasks/optimizers/piecewise_jerk_path/piecewise_jerk_path_optimizer.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 56
+        },
+        {
+            "branch_number": "2",
+            "line_number": 65
+        },
+        {
+            "branch_number": "3",
+            "line_number": 101
+        },
+        {
+            "branch_number": "4",
+            "line_number": 109
+        },
+        {
+            "branch_number": "5",
+            "line_number": 123
+        },
+        {
+            "branch_number": "6",
+            "line_number": 133
+        },
+        {
+            "branch_number": "7",
+            "line_number": 152
+        },
+        {
+            "branch_number": "8",
+            "line_number": 190
+        },
+        {
+            "branch_number": "9",
+            "line_number": 203
+        },
+        {
+            "branch_number": "10",
+            "line_number": 215
+        },
+        {
+            "branch_number": "11",
+            "line_number": 276
+        },
+        {
+            "branch_number": "12",
+            "line_number": 289
+        },
+        {
+            "branch_number": "13",
+            "line_number": 342
+        }
+    ],
+    "tasks/optimizers/piecewise_jerk_path/piecewise_jerk_path_ipopt_solver.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 182
+        },
+        {
+            "branch_number": "2",
+            "line_number": 267
+        },
+        {
+            "branch_number": "3",
+            "line_number": 344
+        },
+        {
+            "branch_number": "4",
+            "line_number": 407
+        },
+        {
+            "branch_number": "5",
+            "line_number": 422
+        },
+        {
+            "branch_number": "6",
+            "line_number": 443
+        },
+        {
+            "branch_number": "7",
+            "line_number": 447
+        }
+    ],
+    "traffic_rules/yield_sign.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 53
+        },
+        {
+            "branch_number": "2",
+            "line_number": 66
+        },
+        {
+            "branch_number": "3",
+            "line_number": 76
+        },
+        {
+            "branch_number": "4",
+            "line_number": 83
+        }
+    ],
+    "traffic_rules/keep_clear.cc": [
+        {
+            "branch_number": "6",
+            "line_number": 50
+        },
+        {
+            "branch_number": "7",
+            "line_number": 61
+        },
+        {
+            "branch_number": "8",
+            "line_number": 73
+        },
+        {
+            "branch_number": "1",
+            "line_number": 86
+        },
+        {
+            "branch_number": "2",
+            "line_number": 93
+        },
+        {
+            "branch_number": "3",
+            "line_number": 100
+        },
+        {
+            "branch_number": "4",
+            "line_number": 107
+        },
+        {
+            "branch_number": "5",
+            "line_number": 114
+        },
+        {
+            "branch_number": "9",
+            "line_number": 120
+        },
+        {
+            "branch_number": "10",
+            "line_number": 125
+        },
+        {
+            "branch_number": "11",
+            "line_number": 134
+        },
+        {
+            "branch_number": "12",
+            "line_number": 145
+        },
+        {
+            "branch_number": "13",
+            "line_number": 156
+        },
+        {
+            "branch_number": "14",
+            "line_number": 170
+        },
+        {
+            "branch_number": "15",
+            "line_number": 194
+        },
+        {
+            "branch_number": "16",
+            "line_number": 215
+        },
+        {
+            "branch_number": "17",
+            "line_number": 231
+        },
+        {
+            "branch_number": "18",
+            "line_number": 238
+        }
+    ],
+    "traffic_rules/crosswalk.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 69
+        },
+        {
+            "branch_number": "2",
+            "line_number": 114
+        },
+        {
+            "branch_number": "3",
+            "line_number": 118
+        },
+        {
+            "branch_number": "4",
+            "line_number": 135
+        },
+        {
+            "branch_number": "5",
+            "line_number": 164
+        },
+        {
+            "branch_number": "6",
+            "line_number": 172
+        },
+        {
+            "branch_number": "7",
+            "line_number": 175
+        },
+        {
+            "branch_number": "8",
+            "line_number": 184
+        },
+        {
+            "branch_number": "9",
+            "line_number": 191
+        },
+        {
+            "branch_number": "10",
+            "line_number": 200
+        },
+        {
+            "branch_number": "11",
+            "line_number": 207
+        },
+        {
+            "branch_number": "12",
+            "line_number": 216
+        },
+        {
+            "branch_number": "13",
+            "line_number": 240
+        },
+        {
+            "branch_number": "14",
+            "line_number": 249
+        },
+        {
+            "branch_number": "15",
+            "line_number": 267
+        },
+        {
+            "branch_number": "16",
+            "line_number": 310
+        },
+        {
+            "branch_number": "17",
+            "line_number": 327
+        },
+        {
+            "branch_number": "18",
+            "line_number": 359
+        },
+        {
+            "branch_number": "19",
+            "line_number": 364
+        },
+        {
+            "branch_number": "20",
+            "line_number": 372
+        },
+        {
+            "branch_number": "21",
+            "line_number": 375
+        },
+        {
+            "branch_number": "22",
+            "line_number": 380
+        },
+        {
+            "branch_number": "23",
+            "line_number": 389
+        },
+        {
+            "branch_number": "24",
+            "line_number": 395
+        },
+        {
+            "branch_number": "25",
+            "line_number": 402
+        },
+        {
+            "branch_number": "26",
+            "line_number": 418
+        },
+        {
+            "branch_number": "27",
+            "line_number": 428
+        },
+        {
+            "branch_number": "28",
+            "line_number": 435
+        },
+        {
+            "branch_number": "29",
+            "line_number": 447
+        },
+        {
+            "branch_number": "30",
+            "line_number": 450
+        },
+        {
+            "branch_number": "31",
+            "line_number": 453
+        }
+    ],
+    "traffic_rules/destination.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 60
+        },
+        {
+            "branch_number": "2",
+            "line_number": 67
+        },
+        {
+            "branch_number": "3",
+            "line_number": 81
+        },
+        {
+            "branch_number": "4",
+            "line_number": 91
+        },
+        {
+            "branch_number": "5",
+            "line_number": 98
+        }
+    ],
+    "traffic_rules/reference_line_end.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 53
+        },
+        {
+            "branch_number": "2",
+            "line_number": 66
+        },
+        {
+            "branch_number": "3",
+            "line_number": 73
+        }
+    ],
+    "traffic_rules/traffic_decider.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 109
+        },
+        {
+            "branch_number": "2",
+            "line_number": 126
+        },
+        {
+            "branch_number": "3",
+            "line_number": 138
+        },
+        {
+            "branch_number": "4",
+            "line_number": 144
+        },
+        {
+            "branch_number": "5",
+            "line_number": 149
+        },
+        {
+            "branch_number": "6",
+            "line_number": 156
+        },
+        {
+            "branch_number": "7",
+            "line_number": 176
+        },
+        {
+            "branch_number": "8",
+            "line_number": 184
+        }
+    ],
+    "traffic_rules/traffic_light.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 60
+        },
+        {
+            "branch_number": "2",
+            "line_number": 84
+        },
+        {
+            "branch_number": "3",
+            "line_number": 94
+        },
+        {
+            "branch_number": "4",
+            "line_number": 101
+        },
+        {
+            "branch_number": "5",
+            "line_number": 124
+        },
+        {
+            "branch_number": "6",
+            "line_number": 150
+        },
+        {
+            "branch_number": "7",
+            "line_number": 157
+        }
+    ],
+    "traffic_rules/backside_vehicle.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 41
+        },
+        {
+            "branch_number": "2",
+            "line_number": 48
+        },
+        {
+            "branch_number": "3",
+            "line_number": 58
+        },
+        {
+            "branch_number": "4",
+            "line_number": 70
+        },
+        {
+            "branch_number": "5",
+            "line_number": 74
+        },
+        {
+            "branch_number": "6",
+            "line_number": 93
+        }
+    ],
+    "traffic_rules/rerouting.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 46
+        },
+        {
+            "branch_number": "2",
+            "line_number": 54
+        },
+        {
+            "branch_number": "3",
+            "line_number": 62
+        },
+        {
+            "branch_number": "4",
+            "line_number": 69
+        },
+        {
+            "branch_number": "5",
+            "line_number": 77
+        },
+        {
+            "branch_number": "6",
+            "line_number": 85
+        },
+        {
+            "branch_number": "7",
+            "line_number": 91
+        },
+        {
+            "branch_number": "8",
+            "line_number": 104
+        },
+        {
+            "branch_number": "9",
+            "line_number": 115
+        },
+        {
+            "branch_number": "10",
+            "line_number": 124
+        },
+        {
+            "branch_number": "11",
+            "line_number": 130
+        },
+        {
+            "branch_number": "12",
+            "line_number": 146
+        }
+    ],
+    "traffic_rules/stop_sign.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 53
+        },
+        {
+            "branch_number": "2",
+            "line_number": 66
+        },
+        {
+            "branch_number": "3",
+            "line_number": 73
+        }
+    ],
+    "common/obstacle_blocking_analyzer.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 45
+        },
+        {
+            "branch_number": "2",
+            "line_number": 53
+        },
+        {
+            "branch_number": "3",
+            "line_number": 63
+        },
+        {
+            "branch_number": "4",
+            "line_number": 68
+        },
+        {
+            "branch_number": "5",
+            "line_number": 76
+        },
+        {
+            "branch_number": "6",
+            "line_number": 84
+        },
+        {
+            "branch_number": "7",
+            "line_number": 114
+        },
+        {
+            "branch_number": "8",
+            "line_number": 122
+        },
+        {
+            "branch_number": "9",
+            "line_number": 130
+        },
+        {
+            "branch_number": "10",
+            "line_number": 140
+        },
+        {
+            "branch_number": "11",
+            "line_number": 149
+        },
+        {
+            "branch_number": "12",
+            "line_number": 157
+        },
+        {
+            "branch_number": "13",
+            "line_number": 166
+        },
+        {
+            "branch_number": "14",
+            "line_number": 170
+        },
+        {
+            "branch_number": "15",
+            "line_number": 175
+        },
+        {
+            "branch_number": "16",
+            "line_number": 183
+        },
+        {
+            "branch_number": "17",
+            "line_number": 191
+        },
+        {
+            "branch_number": "18",
+            "line_number": 226
+        },
+        {
+            "branch_number": "19",
+            "line_number": 241
+        },
+        {
+            "branch_number": "20",
+            "line_number": 266
+        }
+    ],
+    "common/obstacle.cc": [
+        {
+            "branch_number": "1",
+            "line_number": 79
+        },
+        {
+            "branch_number": "2",
+            "line_number": 83
+        },
+        {
+            "branch_number": "3",
+            "line_number": 112
+        },
+        {
+            "branch_number": "4",
+            "line_number": 120
+        },
+        {
+            "branch_number": "5",
+            "line_number": 136
+        },
+        {
+            "branch_number": "6",
+            "line_number": 152
+        },
+        {
+            "branch_number": "7",
+            "line_number": 162
+        },
+        {
+            "branch_number": "8",
+            "line_number": 166
+        },
+        {
+            "branch_number": "9",
+            "line_number": 185
+        },
+        {
+            "branch_number": "10",
+            "line_number": 191
+        },
+        {
+            "branch_number": "11",
+            "line_number": 197
+        },
+        {
+            "branch_number": "12",
+            "line_number": 203
+        },
+        {
+            "branch_number": "13",
+            "line_number": 207
+        },
+        {
+            "branch_number": "14",
+            "line_number": 216
+        },
+        {
+            "branch_number": "15",
+            "line_number": 230
+        },
+        {
+            "branch_number": "16",
+            "line_number": 239
+        },
+        {
+            "branch_number": "17",
+            "line_number": 253
+        },
+        {
+            "branch_number": "18",
+            "line_number": 263
+        },
+        {
+            "branch_number": "19",
+            "line_number": 332
+        },
+        {
+            "branch_number": "20",
+            "line_number": 360
+        },
+        {
+            "branch_number": "21",
+            "line_number": 366
+        },
+        {
+            "branch_number": "22",
+            "line_number": 371
+        },
+        {
+            "branch_number": "23",
+            "line_number": 381
+        },
+        {
+            "branch_number": "24",
+            "line_number": 385
+        },
+        {
+            "branch_number": "25",
+            "line_number": 393
+        },
+        {
+            "branch_number": "26",
+            "line_number": 404
+        },
+        {
+            "branch_number": "27",
+            "line_number": 415
+        },
+        {
+            "branch_number": "28",
+            "line_number": 456
+        },
+        {
+            "branch_number": "29",
+            "line_number": 470
+        },
+        {
+            "branch_number": "30",
+            "line_number": 492
+        },
+        {
+            "branch_number": "31",
+            "line_number": 498
+        },
+        {
+            "branch_number": "32",
+            "line_number": 511
+        },
+        {
+            "branch_number": "33",
+            "line_number": 524
+        },
+        {
+            "branch_number": "34",
+            "line_number": 533
+        },
+        {
+            "branch_number": "35",
+            "line_number": 543
+        },
+        {
+            "branch_number": "36",
+            "line_number": 559
+        },
+        {
+            "branch_number": "37",
+            "line_number": 568
+        },
+        {
+            "branch_number": "38",
+            "line_number": 583
+        },
+        {
+            "branch_number": "39",
+            "line_number": 588
+        },
+        {
+            "branch_number": "40",
+            "line_number": 623
+        },
+        {
+            "branch_number": "41",
+            "line_number": 628
+        },
+        {
+            "branch_number": "42",
+            "line_number": 637
+        },
+        {
+            "branch_number": "43",
+            "line_number": 641
+        },
+        {
+            "branch_number": "44",
+            "line_number": 645
+        },
+        {
+            "branch_number": "45",
+            "line_number": 648
+        },
+        {
+            "branch_number": "46",
+            "line_number": 652
+        },
+        {
+            "branch_number": "47",
+            "line_number": 656
+        },
+        {
+            "branch_number": "48",
+            "line_number": 660
+        },
+        {
+            "branch_number": "49",
+            "line_number": 664
+        },
+        {
+            "branch_number": "50",
+            "line_number": 669
+        },
+        {
+            "branch_number": "51",
+            "line_number": 700
+        },
+        {
+            "branch_number": "52",
+            "line_number": 705
+        },
+        {
+            "branch_number": "53",
+            "line_number": 714
+        },
+        {
+            "branch_number": "54",
+            "line_number": 718
+        },
+        {
+            "branch_number": "55",
+            "line_number": 722
+        },
+        {
+            "branch_number": "56",
+            "line_number": 725
+        },
+        {
+            "branch_number": "57",
+            "line_number": 729
+        },
+        {
+            "branch_number": "58",
+            "line_number": 798
+        },
+        {
+            "branch_number": "59",
+            "line_number": 804
+        },
+        {
+            "branch_number": "60",
+            "line_number": 853
+        },
+        {
+            "branch_number": "61",
+            "line_number": 864
+        },
+        {
+            "branch_number": "62",
+            "line_number": 876
+        }
+    ]
+}
