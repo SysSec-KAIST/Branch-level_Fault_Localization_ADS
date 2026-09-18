@@ -33,6 +33,26 @@ See also the [companion site](https://sites.google.com/view/adsfaultlocalization
 
 The omitted raw logs are not required to inspect the implementation or reproduce the localization pipeline on the provided sample cases. Reproducing the full set of 221 failures requires running the provided reproduction scripts in the Apollo 7.0 + LGSVL + SORA-SVL environment described below.
 
+## Experimental Setup
+
+* AD system side
+   * OS: Ubuntu 20.04.1 LTS
+   * GPU: NVIDIA GeForce RTX 2080 Ti
+   * Apollo version: Baidu Apollo r7.0.0
+   * Enabled modules: Localization, Perception, Transform, Routing, Prediction,
+     Planning, Traffic Light, Control, Recorder
+   * Prediction module modification: Perception input replaced with 3D ground truth
+     (gt_perception)
+* Simulator side
+   * OS: Ubuntu 22.04.5 LTS
+   * GPU: NVIDIA GeForce RTX 3090
+   * Simulator: LGSVL Simulator 2021.3, integrated via
+     [SORA-SVL](https://github.com/YuqiHuai/SORA-SVL)
+   * Ego vehicle: Lincoln 2017 MKZ (Apollo 7.0 sensor configuration)
+   * Map: SanFrancisco_correct
+   * Simulation mode: API-only, driven by the LGSVL Python API
+   * Bridge: CyberRT bridge (localhost:9090) between the simulator and Apollo
+
 ## Setup
 ###  (Step 1) Baidu Apollo
 - Clone custom Apollo ADS (customized for instrumentation) [apollo_debug](https://github.com/RomainLettuce/apollo_debug/tree/SEFL)
@@ -56,15 +76,23 @@ python ~/apollo/scripts/instrument_coverage.py --instrument --build --include ~/
 ./dev_into.sh
 ```
 * Generate a map data
-```angular2html
+```bash
 bash generate_map.sh SanFrancisco_correct
 ```
 * Build apollo
-```angular2html
+```bash
 bash apollo_build.sh
 ```
+* Replace perception as ground-truth
+```bash
+cd ~/apollo
+
+sed -i.bak 's|"/apollo/perception/obstacles"|"/apollo/perception/obstacles_gt"|' \
+  modules/prediction/dag/prediction.dag \
+  modules/prediction/conf/prediction_conf.pb.txt
+```
 * Start bootstrap and bridge
-```angular2html
+```bash
 cd /apollo
 bash scripts/bootstrap_lgsvl.sh
 cyber_bridge
